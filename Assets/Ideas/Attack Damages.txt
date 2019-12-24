@@ -1,0 +1,13 @@
+Attack=0
+Weapon=Stick
+
+Green:(Middle)24 26
+       (Left)23
+       (Right)23  
+Yellow(Left):(Middle)21
+             (Left)19
+             (Right)22
+Red(Left):(Left) 16 15
+Red(Right):(Right) 14
+Border(Right)13
+      (Border)9 11

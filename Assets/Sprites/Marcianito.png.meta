@@ -1,0 +1,2121 @@
+fileFormatVersion: 2
+guid: 0a1e9a7c106fc7047ae01470eb769a5b
+timeCreated: 1463812106
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Marcianito_0
+    21300002: Marcianito_1
+    21300004: Marcianito_2
+    21300006: Marcianito_3
+    21300008: Marcianito_4
+    21300010: Marcianito_5
+    21300012: Marcianito_6
+    21300014: Marcianito_7
+    21300016: Marcianito_8
+    21300018: Marcianito_9
+    21300020: Marcianito_10
+    21300022: Marcianito_11
+    21300024: Marcianito_12
+    21300026: Marcianito_13
+    21300028: Marcianito_14
+    21300030: Marcianito_15
+    21300032: Marcianito_16
+    21300034: Marcianito_17
+    21300036: Marcianito_18
+    21300038: Marcianito_19
+    21300040: Marcianito_20
+    21300042: Marcianito_21
+    21300044: Marcianito_22
+    21300046: Marcianito_23
+    21300048: Marcianito_24
+    21300050: Marcianito_25
+    21300052: Marcianito_26
+    21300054: Marcianito_27
+    21300056: Marcianito_28
+    21300058: Marcianito_29
+    21300060: Marcianito_30
+    21300062: Marcianito_31
+    21300064: Marcianito_32
+    21300066: Marcianito_33
+    21300068: Marcianito_34
+    21300070: Marcianito_35
+    21300072: Marcianito_36
+    21300074: Marcianito_37
+    21300076: Marcianito_38
+    21300078: Marcianito_39
+    21300080: Marcianito_40
+    21300082: Marcianito_41
+    21300084: Marcianito_42
+    21300086: Marcianito_43
+    21300088: Marcianito_44
+    21300090: Marcianito_45
+    21300092: Marcianito_46
+    21300094: Marcianito_47
+    21300096: Marcianito_48
+    21300098: Marcianito_49
+    21300100: Marcianito_50
+    21300102: Marcianito_51
+    21300104: Marcianito_52
+    21300106: Marcianito_53
+    21300108: Marcianito_54
+    21300110: Marcianito_55
+    21300112: Marcianito_56
+    21300114: Marcianito_57
+    21300116: Marcianito_58
+    21300118: Marcianito_59
+    21300120: Marcianito_60
+    21300122: Marcianito_61
+    21300124: Marcianito_62
+    21300126: Marcianito_63
+    21300128: Marcianito_64
+    21300130: Marcianito_65
+    21300132: Marcianito_66
+    21300134: Marcianito_67
+    21300136: Marcianito_68
+    21300138: Marcianito_69
+    21300140: Marcianito_70
+    21300142: Marcianito_71
+    21300144: Marcianito_72
+    21300146: Marcianito_73
+    21300148: Marcianito_74
+    21300150: Marcianito_75
+    21300152: Marcianito_76
+    21300154: Marcianito_77
+    21300156: Marcianito_78
+    21300158: Marcianito_79
+    21300160: Marcianito_80
+    21300162: Marcianito_81
+    21300164: Marcianito_82
+    21300166: Marcianito_83
+    21300168: Marcianito_84
+    21300170: Marcianito_85
+    21300172: Marcianito_86
+    21300174: Marcianito_87
+    21300176: Marcianito_88
+    21300178: Marcianito_89
+    21300180: Marcianito_90
+    21300182: Marcianito_91
+    21300184: Marcianito_92
+    21300186: Marcianito_93
+    21300188: Marcianito_94
+    21300190: Marcianito_95
+    21300192: Marcianito_96
+    21300194: Marcianito_97
+    21300196: Marcianito_98
+    21300198: Marcianito_99
+    21300200: Marcianito_100
+    21300202: Marcianito_101
+    21300204: Marcianito_102
+    21300206: Marcianito_103
+    21300208: Marcianito_104
+    21300210: Marcianito_105
+    21300212: Marcianito_106
+    21300214: Marcianito_107
+    21300216: Marcianito_108
+    21300218: Marcianito_109
+    21300220: Marcianito_110
+    21300222: Marcianito_111
+    21300224: Marcianito_112
+    21300226: Marcianito_113
+    21300228: Marcianito_114
+    21300230: Marcianito_115
+    21300232: Marcianito_116
+    21300234: Marcianito_117
+    21300236: Marcianito_118
+    21300238: Marcianito_119
+    21300240: Marcianito_120
+    21300242: Marcianito_121
+    21300244: Marcianito_122
+    21300246: Marcianito_123
+    21300248: Marcianito_124
+    21300250: Marcianito_125
+    21300252: Marcianito_126
+    21300254: Marcianito_127
+    21300256: Marcianito_128
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Marcianito_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1945
+        width: 69
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.5, y: 51}
+        - {x: -34.5, y: -51}
+        - {x: 34.5, y: -51}
+        - {x: 34.5, y: 51}
+    - name: Marcianito_1
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 1945
+        width: 69
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.5, y: 51}
+        - {x: -34.5, y: -51}
+        - {x: 34.5, y: -51}
+        - {x: 34.5, y: 51}
+    - name: Marcianito_2
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 1945
+        width: 69
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.5, y: 51}
+        - {x: -34.5, y: -51}
+        - {x: 34.5, y: -51}
+        - {x: 34.5, y: 51}
+    - name: Marcianito_3
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1945
+        width: 69
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.5, y: 51}
+        - {x: -34.5, y: -51}
+        - {x: 34.5, y: -51}
+        - {x: 34.5, y: 51}
+    - name: Marcianito_4
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 1945
+        width: 69
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.5, y: 51}
+        - {x: -34.5, y: -51}
+        - {x: 34.5, y: -51}
+        - {x: 34.5, y: 51}
+    - name: Marcianito_5
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 1945
+        width: 69
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.5, y: 51}
+        - {x: -34.5, y: -51}
+        - {x: 34.5, y: -51}
+        - {x: 34.5, y: 51}
+    - name: Marcianito_6
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 1945
+        width: 69
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.5, y: 51}
+        - {x: -34.5, y: -51}
+        - {x: 34.5, y: -51}
+        - {x: 34.5, y: 51}
+    - name: Marcianito_7
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1842
+        width: 69
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.5, y: 51}
+        - {x: -34.5, y: -51}
+        - {x: 34.5, y: -51}
+        - {x: 34.5, y: 51}
+    - name: Marcianito_8
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 1842
+        width: 69
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.5, y: 51}
+        - {x: -34.5, y: -51}
+        - {x: 34.5, y: -51}
+        - {x: 34.5, y: 51}
+    - name: Marcianito_9
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 1842
+        width: 69
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.5, y: 51}
+        - {x: -34.5, y: -51}
+        - {x: 34.5, y: -51}
+        - {x: 34.5, y: 51}
+    - name: Marcianito_10
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1842
+        width: 69
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.5, y: 51}
+        - {x: -34.5, y: -51}
+        - {x: 34.5, y: -51}
+        - {x: 34.5, y: 51}
+    - name: Marcianito_11
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 1842
+        width: 69
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.5, y: 51}
+        - {x: -34.5, y: -51}
+        - {x: 34.5, y: -51}
+        - {x: 34.5, y: 51}
+    - name: Marcianito_12
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 1842
+        width: 69
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.5, y: 51}
+        - {x: -34.5, y: -51}
+        - {x: 34.5, y: -51}
+        - {x: 34.5, y: 51}
+    - name: Marcianito_13
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 1842
+        width: 69
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.5, y: 51}
+        - {x: -34.5, y: -51}
+        - {x: 34.5, y: -51}
+        - {x: 34.5, y: 51}
+    - name: Marcianito_14
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1739
+        width: 69
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.5, y: 51}
+        - {x: -34.5, y: -51}
+        - {x: 34.5, y: -51}
+        - {x: 34.5, y: 51}
+    - name: Marcianito_15
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 1739
+        width: 69
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.5, y: 51}
+        - {x: -34.5, y: -51}
+        - {x: 34.5, y: -51}
+        - {x: 34.5, y: 51}
+    - name: Marcianito_16
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 1739
+        width: 69
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.5, y: 51}
+        - {x: -34.5, y: -51}
+        - {x: 34.5, y: -51}
+        - {x: 34.5, y: 51}
+    - name: Marcianito_17
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1739
+        width: 69
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.5, y: 51}
+        - {x: -34.5, y: -51}
+        - {x: 34.5, y: -51}
+        - {x: 34.5, y: 51}
+    - name: Marcianito_18
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 1739
+        width: 69
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.5, y: 51}
+        - {x: -34.5, y: -51}
+        - {x: 34.5, y: -51}
+        - {x: 34.5, y: 51}
+    - name: Marcianito_19
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 1739
+        width: 69
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.5, y: 51}
+        - {x: -34.5, y: -51}
+        - {x: 34.5, y: -51}
+        - {x: 34.5, y: 51}
+    - name: Marcianito_20
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 1739
+        width: 69
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.5, y: 51}
+        - {x: -34.5, y: -51}
+        - {x: 34.5, y: -51}
+        - {x: 34.5, y: 51}
+    - name: Marcianito_21
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1636
+        width: 69
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.5, y: 51}
+        - {x: -34.5, y: -51}
+        - {x: 34.5, y: -51}
+        - {x: 34.5, y: 51}
+    - name: Marcianito_22
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 1636
+        width: 69
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.5, y: 51}
+        - {x: -34.5, y: -51}
+        - {x: 34.5, y: -51}
+        - {x: 34.5, y: 51}
+    - name: Marcianito_23
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 1636
+        width: 69
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.5, y: 51}
+        - {x: -34.5, y: -51}
+        - {x: 34.5, y: -51}
+        - {x: 34.5, y: 51}
+    - name: Marcianito_24
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1636
+        width: 69
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.5, y: 51}
+        - {x: -34.5, y: -51}
+        - {x: 34.5, y: -51}
+        - {x: 34.5, y: 51}
+    - name: Marcianito_25
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 1636
+        width: 69
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.5, y: 51}
+        - {x: -34.5, y: -51}
+        - {x: 34.5, y: -51}
+        - {x: 34.5, y: 51}
+    - name: Marcianito_26
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 1636
+        width: 69
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.5, y: 51}
+        - {x: -34.5, y: -51}
+        - {x: 34.5, y: -51}
+        - {x: 34.5, y: 51}
+    - name: Marcianito_27
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 1636
+        width: 69
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.5, y: 51}
+        - {x: -34.5, y: -51}
+        - {x: 34.5, y: -51}
+        - {x: 34.5, y: 51}
+    - name: Marcianito_28
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1533
+        width: 69
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.5, y: 51}
+        - {x: -34.5, y: -51}
+        - {x: 34.5, y: -51}
+        - {x: 34.5, y: 51}
+    - name: Marcianito_29
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 1533
+        width: 69
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.5, y: 51}
+        - {x: -34.5, y: -51}
+        - {x: 34.5, y: -51}
+        - {x: 34.5, y: 51}
+    - name: Marcianito_30
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 1533
+        width: 69
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.5, y: 51}
+        - {x: -34.5, y: -51}
+        - {x: 34.5, y: -51}
+        - {x: 34.5, y: 51}
+    - name: Marcianito_31
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1533
+        width: 69
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.5, y: 51}
+        - {x: -34.5, y: -51}
+        - {x: 34.5, y: -51}
+        - {x: 34.5, y: 51}
+    - name: Marcianito_32
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 1533
+        width: 69
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.5, y: 51}
+        - {x: -34.5, y: -51}
+        - {x: 34.5, y: -51}
+        - {x: 34.5, y: 51}
+    - name: Marcianito_33
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 1533
+        width: 69
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.5, y: 51}
+        - {x: -34.5, y: -51}
+        - {x: 34.5, y: -51}
+        - {x: 34.5, y: 51}
+    - name: Marcianito_34
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 1533
+        width: 69
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.5, y: 51}
+        - {x: -34.5, y: -51}
+        - {x: 34.5, y: -51}
+        - {x: 34.5, y: 51}
+    - name: Marcianito_35
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1430
+        width: 69
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.5, y: 51}
+        - {x: -34.5, y: -51}
+        - {x: 34.5, y: -51}
+        - {x: 34.5, y: 51}
+    - name: Marcianito_36
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 1430
+        width: 69
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.5, y: 51}
+        - {x: -34.5, y: -51}
+        - {x: 34.5, y: -51}
+        - {x: 34.5, y: 51}
+    - name: Marcianito_37
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 1430
+        width: 69
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.5, y: 51}
+        - {x: -34.5, y: -51}
+        - {x: 34.5, y: -51}
+        - {x: 34.5, y: 51}
+    - name: Marcianito_38
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1430
+        width: 69
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.5, y: 51}
+        - {x: -34.5, y: -51}
+        - {x: 34.5, y: -51}
+        - {x: 34.5, y: 51}
+    - name: Marcianito_39
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 1430
+        width: 69
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.5, y: 51}
+        - {x: -34.5, y: -51}
+        - {x: 34.5, y: -51}
+        - {x: 34.5, y: 51}
+    - name: Marcianito_40
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 1430
+        width: 69
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.5, y: 51}
+        - {x: -34.5, y: -51}
+        - {x: 34.5, y: -51}
+        - {x: 34.5, y: 51}
+    - name: Marcianito_41
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 1430
+        width: 69
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.5, y: 51}
+        - {x: -34.5, y: -51}
+        - {x: 34.5, y: -51}
+        - {x: 34.5, y: 51}
+    - name: Marcianito_42
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1327
+        width: 69
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.5, y: 51}
+        - {x: -34.5, y: -51}
+        - {x: 34.5, y: -51}
+        - {x: 34.5, y: 51}
+    - name: Marcianito_43
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 1327
+        width: 69
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.5, y: 51}
+        - {x: -34.5, y: -51}
+        - {x: 34.5, y: -51}
+        - {x: 34.5, y: 51}
+    - name: Marcianito_44
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 1327
+        width: 69
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.5, y: 51}
+        - {x: -34.5, y: -51}
+        - {x: 34.5, y: -51}
+        - {x: 34.5, y: 51}
+    - name: Marcianito_45
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1327
+        width: 69
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.5, y: 51}
+        - {x: -34.5, y: -51}
+        - {x: 34.5, y: -51}
+        - {x: 34.5, y: 51}
+    - name: Marcianito_46
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 1327
+        width: 69
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.5, y: 51}
+        - {x: -34.5, y: -51}
+        - {x: 34.5, y: -51}
+        - {x: 34.5, y: 51}
+    - name: Marcianito_47
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 1327
+        width: 69
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.5, y: 51}
+        - {x: -34.5, y: -51}
+        - {x: 34.5, y: -51}
+        - {x: 34.5, y: 51}
+    - name: Marcianito_48
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 1327
+        width: 69
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.5, y: 51}
+        - {x: -34.5, y: -51}
+        - {x: 34.5, y: -51}
+        - {x: 34.5, y: 51}
+    - name: Marcianito_49
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1224
+        width: 69
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.5, y: 51}
+        - {x: -34.5, y: -51}
+        - {x: 34.5, y: -51}
+        - {x: 34.5, y: 51}
+    - name: Marcianito_50
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 1224
+        width: 69
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.5, y: 51}
+        - {x: -34.5, y: -51}
+        - {x: 34.5, y: -51}
+        - {x: 34.5, y: 51}
+    - name: Marcianito_51
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 1224
+        width: 69
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.5, y: 51}
+        - {x: -34.5, y: -51}
+        - {x: 34.5, y: -51}
+        - {x: 34.5, y: 51}
+    - name: Marcianito_52
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1224
+        width: 69
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.5, y: 51}
+        - {x: -34.5, y: -51}
+        - {x: 34.5, y: -51}
+        - {x: 34.5, y: 51}
+    - name: Marcianito_53
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 1224
+        width: 69
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.5, y: 51}
+        - {x: -34.5, y: -51}
+        - {x: 34.5, y: -51}
+        - {x: 34.5, y: 51}
+    - name: Marcianito_54
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 1224
+        width: 69
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.5, y: 51}
+        - {x: -34.5, y: -51}
+        - {x: 34.5, y: -51}
+        - {x: 34.5, y: 51}
+    - name: Marcianito_55
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 1224
+        width: 69
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.5, y: 51}
+        - {x: -34.5, y: -51}
+        - {x: 34.5, y: -51}
+        - {x: 34.5, y: 51}
+    - name: Marcianito_56
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1121
+        width: 69
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.5, y: 51}
+        - {x: -34.5, y: -51}
+        - {x: 34.5, y: -51}
+        - {x: 34.5, y: 51}
+    - name: Marcianito_57
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 1121
+        width: 69
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.5, y: 51}
+        - {x: -34.5, y: -51}
+        - {x: 34.5, y: -51}
+        - {x: 34.5, y: 51}
+    - name: Marcianito_58
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 1121
+        width: 69
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.5, y: 51}
+        - {x: -34.5, y: -51}
+        - {x: 34.5, y: -51}
+        - {x: 34.5, y: 51}
+    - name: Marcianito_59
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1121
+        width: 69
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.5, y: 51}
+        - {x: -34.5, y: -51}
+        - {x: 34.5, y: -51}
+        - {x: 34.5, y: 51}
+    - name: Marcianito_60
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 1121
+        width: 69
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.5, y: 51}
+        - {x: -34.5, y: -51}
+        - {x: 34.5, y: -51}
+        - {x: 34.5, y: 51}
+    - name: Marcianito_61
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 1121
+        width: 69
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.5, y: 51}
+        - {x: -34.5, y: -51}
+        - {x: 34.5, y: -51}
+        - {x: 34.5, y: 51}
+    - name: Marcianito_62
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 1121
+        width: 69
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.5, y: 51}
+        - {x: -34.5, y: -51}
+        - {x: 34.5, y: -51}
+        - {x: 34.5, y: 51}
+    - name: Marcianito_63
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1018
+        width: 69
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.5, y: 51}
+        - {x: -34.5, y: -51}
+        - {x: 34.5, y: -51}
+        - {x: 34.5, y: 51}
+    - name: Marcianito_64
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 1018
+        width: 69
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.5, y: 51}
+        - {x: -34.5, y: -51}
+        - {x: 34.5, y: -51}
+        - {x: 34.5, y: 51}
+    - name: Marcianito_65
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 1018
+        width: 69
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.5, y: 51}
+        - {x: -34.5, y: -51}
+        - {x: 34.5, y: -51}
+        - {x: 34.5, y: 51}
+    - name: Marcianito_66
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1018
+        width: 69
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.5, y: 51}
+        - {x: -34.5, y: -51}
+        - {x: 34.5, y: -51}
+        - {x: 34.5, y: 51}
+    - name: Marcianito_67
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 1018
+        width: 69
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.5, y: 51}
+        - {x: -34.5, y: -51}
+        - {x: 34.5, y: -51}
+        - {x: 34.5, y: 51}
+    - name: Marcianito_68
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 1018
+        width: 69
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.5, y: 51}
+        - {x: -34.5, y: -51}
+        - {x: 34.5, y: -51}
+        - {x: 34.5, y: 51}
+    - name: Marcianito_69
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 1018
+        width: 69
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.5, y: 51}
+        - {x: -34.5, y: -51}
+        - {x: 34.5, y: -51}
+        - {x: 34.5, y: 51}
+    - name: Marcianito_70
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 915
+        width: 69
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.5, y: 51}
+        - {x: -34.5, y: -51}
+        - {x: 34.5, y: -51}
+        - {x: 34.5, y: 51}
+    - name: Marcianito_71
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 915
+        width: 69
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.5, y: 51}
+        - {x: -34.5, y: -51}
+        - {x: 34.5, y: -51}
+        - {x: 34.5, y: 51}
+    - name: Marcianito_72
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 915
+        width: 69
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.5, y: 51}
+        - {x: -34.5, y: -51}
+        - {x: 34.5, y: -51}
+        - {x: 34.5, y: 51}
+    - name: Marcianito_73
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 915
+        width: 69
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.5, y: 51}
+        - {x: -34.5, y: -51}
+        - {x: 34.5, y: -51}
+        - {x: 34.5, y: 51}
+    - name: Marcianito_74
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 915
+        width: 69
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.5, y: 51}
+        - {x: -34.5, y: -51}
+        - {x: 34.5, y: -51}
+        - {x: 34.5, y: 51}
+    - name: Marcianito_75
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 915
+        width: 69
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.5, y: 51}
+        - {x: -34.5, y: -51}
+        - {x: 34.5, y: -51}
+        - {x: 34.5, y: 51}
+    - name: Marcianito_76
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 915
+        width: 69
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.5, y: 51}
+        - {x: -34.5, y: -51}
+        - {x: 34.5, y: -51}
+        - {x: 34.5, y: 51}
+    - name: Marcianito_77
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 812
+        width: 69
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.5, y: 51}
+        - {x: -34.5, y: -51}
+        - {x: 34.5, y: -51}
+        - {x: 34.5, y: 51}
+    - name: Marcianito_78
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 812
+        width: 69
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.5, y: 51}
+        - {x: -34.5, y: -51}
+        - {x: 34.5, y: -51}
+        - {x: 34.5, y: 51}
+    - name: Marcianito_79
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 812
+        width: 69
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.5, y: 51}
+        - {x: -34.5, y: -51}
+        - {x: 34.5, y: -51}
+        - {x: 34.5, y: 51}
+    - name: Marcianito_80
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 812
+        width: 69
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.5, y: 51}
+        - {x: -34.5, y: -51}
+        - {x: 34.5, y: -51}
+        - {x: 34.5, y: 51}
+    - name: Marcianito_81
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 812
+        width: 69
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.5, y: 51}
+        - {x: -34.5, y: -51}
+        - {x: 34.5, y: -51}
+        - {x: 34.5, y: 51}
+    - name: Marcianito_82
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 812
+        width: 69
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.5, y: 51}
+        - {x: -34.5, y: -51}
+        - {x: 34.5, y: -51}
+        - {x: 34.5, y: 51}
+    - name: Marcianito_83
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 812
+        width: 69
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.5, y: 51}
+        - {x: -34.5, y: -51}
+        - {x: 34.5, y: -51}
+        - {x: 34.5, y: 51}
+    - name: Marcianito_84
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 709
+        width: 69
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.5, y: 51}
+        - {x: -34.5, y: -51}
+        - {x: 34.5, y: -51}
+        - {x: 34.5, y: 51}
+    - name: Marcianito_85
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 709
+        width: 69
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.5, y: 51}
+        - {x: -34.5, y: -51}
+        - {x: 34.5, y: -51}
+        - {x: 34.5, y: 51}
+    - name: Marcianito_86
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 709
+        width: 69
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.5, y: 51}
+        - {x: -34.5, y: -51}
+        - {x: 34.5, y: -51}
+        - {x: 34.5, y: 51}
+    - name: Marcianito_87
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 709
+        width: 69
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.5, y: 51}
+        - {x: -34.5, y: -51}
+        - {x: 34.5, y: -51}
+        - {x: 34.5, y: 51}
+    - name: Marcianito_88
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 709
+        width: 69
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.5, y: 51}
+        - {x: -34.5, y: -51}
+        - {x: 34.5, y: -51}
+        - {x: 34.5, y: 51}
+    - name: Marcianito_89
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 709
+        width: 69
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.5, y: 51}
+        - {x: -34.5, y: -51}
+        - {x: 34.5, y: -51}
+        - {x: 34.5, y: 51}
+    - name: Marcianito_90
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 709
+        width: 69
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.5, y: 51}
+        - {x: -34.5, y: -51}
+        - {x: 34.5, y: -51}
+        - {x: 34.5, y: 51}
+    - name: Marcianito_91
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 606
+        width: 69
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.5, y: 51}
+        - {x: -34.5, y: -51}
+        - {x: 34.5, y: -51}
+        - {x: 34.5, y: 51}
+    - name: Marcianito_92
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 606
+        width: 69
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.5, y: 51}
+        - {x: -34.5, y: -51}
+        - {x: 34.5, y: -51}
+        - {x: 34.5, y: 51}
+    - name: Marcianito_93
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 606
+        width: 69
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.5, y: 51}
+        - {x: -34.5, y: -51}
+        - {x: 34.5, y: -51}
+        - {x: 34.5, y: 51}
+    - name: Marcianito_94
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 606
+        width: 69
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.5, y: 51}
+        - {x: -34.5, y: -51}
+        - {x: 34.5, y: -51}
+        - {x: 34.5, y: 51}
+    - name: Marcianito_95
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 606
+        width: 69
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.5, y: 51}
+        - {x: -34.5, y: -51}
+        - {x: 34.5, y: -51}
+        - {x: 34.5, y: 51}
+    - name: Marcianito_96
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 606
+        width: 69
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.5, y: 51}
+        - {x: -34.5, y: -51}
+        - {x: 34.5, y: -51}
+        - {x: 34.5, y: 51}
+    - name: Marcianito_97
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 606
+        width: 69
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.5, y: 51}
+        - {x: -34.5, y: -51}
+        - {x: 34.5, y: -51}
+        - {x: 34.5, y: 51}
+    - name: Marcianito_98
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 503
+        width: 69
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.5, y: 51}
+        - {x: -34.5, y: -51}
+        - {x: 34.5, y: -51}
+        - {x: 34.5, y: 51}
+    - name: Marcianito_99
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 503
+        width: 69
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.5, y: 51}
+        - {x: -34.5, y: -51}
+        - {x: 34.5, y: -51}
+        - {x: 34.5, y: 51}
+    - name: Marcianito_100
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 503
+        width: 69
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.5, y: 51}
+        - {x: -34.5, y: -51}
+        - {x: 34.5, y: -51}
+        - {x: 34.5, y: 51}
+    - name: Marcianito_101
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 503
+        width: 69
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.5, y: 51}
+        - {x: -34.5, y: -51}
+        - {x: 34.5, y: -51}
+        - {x: 34.5, y: 51}
+    - name: Marcianito_102
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 503
+        width: 69
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.5, y: 51}
+        - {x: -34.5, y: -51}
+        - {x: 34.5, y: -51}
+        - {x: 34.5, y: 51}
+    - name: Marcianito_103
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 503
+        width: 69
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.5, y: 51}
+        - {x: -34.5, y: -51}
+        - {x: 34.5, y: -51}
+        - {x: 34.5, y: 51}
+    - name: Marcianito_104
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 503
+        width: 69
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.5, y: 51}
+        - {x: -34.5, y: -51}
+        - {x: 34.5, y: -51}
+        - {x: 34.5, y: 51}
+    - name: Marcianito_105
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 400
+        width: 69
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.5, y: 51}
+        - {x: -34.5, y: -51}
+        - {x: 34.5, y: -51}
+        - {x: 34.5, y: 51}
+    - name: Marcianito_106
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 400
+        width: 69
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.5, y: 51}
+        - {x: -34.5, y: -51}
+        - {x: 34.5, y: -51}
+        - {x: 34.5, y: 51}
+    - name: Marcianito_107
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 400
+        width: 69
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.5, y: 51}
+        - {x: -34.5, y: -51}
+        - {x: 34.5, y: -51}
+        - {x: 34.5, y: 51}
+    - name: Marcianito_108
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 400
+        width: 69
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.5, y: 51}
+        - {x: -34.5, y: -51}
+        - {x: 34.5, y: -51}
+        - {x: 34.5, y: 51}
+    - name: Marcianito_109
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 400
+        width: 69
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.5, y: 51}
+        - {x: -34.5, y: -51}
+        - {x: 34.5, y: -51}
+        - {x: 34.5, y: 51}
+    - name: Marcianito_110
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 400
+        width: 69
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.5, y: 51}
+        - {x: -34.5, y: -51}
+        - {x: 34.5, y: -51}
+        - {x: 34.5, y: 51}
+    - name: Marcianito_111
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 400
+        width: 69
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.5, y: 51}
+        - {x: -34.5, y: -51}
+        - {x: 34.5, y: -51}
+        - {x: 34.5, y: 51}
+    - name: Marcianito_112
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 297
+        width: 69
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.5, y: 51}
+        - {x: -34.5, y: -51}
+        - {x: 34.5, y: -51}
+        - {x: 34.5, y: 51}
+    - name: Marcianito_113
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 297
+        width: 69
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.5, y: 51}
+        - {x: -34.5, y: -51}
+        - {x: 34.5, y: -51}
+        - {x: 34.5, y: 51}
+    - name: Marcianito_114
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 297
+        width: 69
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.5, y: 51}
+        - {x: -34.5, y: -51}
+        - {x: 34.5, y: -51}
+        - {x: 34.5, y: 51}
+    - name: Marcianito_115
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 297
+        width: 69
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.5, y: 51}
+        - {x: -34.5, y: -51}
+        - {x: 34.5, y: -51}
+        - {x: 34.5, y: 51}
+    - name: Marcianito_116
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 297
+        width: 69
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.5, y: 51}
+        - {x: -34.5, y: -51}
+        - {x: 34.5, y: -51}
+        - {x: 34.5, y: 51}
+    - name: Marcianito_117
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 297
+        width: 69
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.5, y: 51}
+        - {x: -34.5, y: -51}
+        - {x: 34.5, y: -51}
+        - {x: 34.5, y: 51}
+    - name: Marcianito_118
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 297
+        width: 69
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.5, y: 51}
+        - {x: -34.5, y: -51}
+        - {x: 34.5, y: -51}
+        - {x: 34.5, y: 51}
+    - name: Marcianito_119
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 194
+        width: 69
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.5, y: 51}
+        - {x: -34.5, y: -51}
+        - {x: 34.5, y: -51}
+        - {x: 34.5, y: 51}
+    - name: Marcianito_120
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 194
+        width: 69
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.5, y: 51}
+        - {x: -34.5, y: -51}
+        - {x: 34.5, y: -51}
+        - {x: 34.5, y: 51}
+    - name: Marcianito_121
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 194
+        width: 69
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.5, y: 51}
+        - {x: -34.5, y: -51}
+        - {x: 34.5, y: -51}
+        - {x: 34.5, y: 51}
+    - name: Marcianito_122
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 194
+        width: 69
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.5, y: 51}
+        - {x: -34.5, y: -51}
+        - {x: 34.5, y: -51}
+        - {x: 34.5, y: 51}
+    - name: Marcianito_123
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 194
+        width: 69
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.5, y: 51}
+        - {x: -34.5, y: -51}
+        - {x: 34.5, y: -51}
+        - {x: 34.5, y: 51}
+    - name: Marcianito_124
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 194
+        width: 69
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.5, y: 51}
+        - {x: -34.5, y: -51}
+        - {x: 34.5, y: -51}
+        - {x: 34.5, y: 51}
+    - name: Marcianito_125
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 194
+        width: 69
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.5, y: 51}
+        - {x: -34.5, y: -51}
+        - {x: 34.5, y: -51}
+        - {x: 34.5, y: 51}
+    - name: Marcianito_126
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 91
+        width: 69
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.5, y: 51}
+        - {x: -34.5, y: -51}
+        - {x: 34.5, y: -51}
+        - {x: 34.5, y: 51}
+    - name: Marcianito_127
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 91
+        width: 69
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.5, y: 51}
+        - {x: -34.5, y: -51}
+        - {x: 34.5, y: -51}
+        - {x: 34.5, y: 51}
+    - name: Marcianito_128
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 91
+        width: 69
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.5, y: 51}
+        - {x: -34.5, y: -51}
+        - {x: 34.5, y: -51}
+        - {x: 34.5, y: 51}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

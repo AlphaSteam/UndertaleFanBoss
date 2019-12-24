@@ -1,0 +1,4 @@
+ItemUsed Text Uses UITypeWriter
+If you dont press Z in the itemused text the game doesnt progress.
+Buttons Become orange(Not Selectable)
+If you dont press Z in the talkBox(In general, it progress after some seconds)

@@ -1,0 +1,776 @@
+fileFormatVersion: 2
+guid: d6ea570c450f74848b746ddccd40a827
+timeCreated: 1481417735
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: RedHeart
+    21300002: RedHeart_Small
+    21300004: RedHeart_Damage
+    21300006: Undertale - The Human Souls_3
+    21300008: Undertale - The Human Souls_4
+    21300010: Red_Heart_Left
+    21300012: Red_Heart_Right
+    21300014: Undertale - The Human Souls_7
+    21300016: Undertale - The Human Souls_8
+    21300018: Undertale - The Human Souls_9
+    21300020: Undertale - The Human Souls_10
+    21300022: Undertale - The Human Souls_11
+    21300024: Undertale - The Human Souls_12
+    21300026: Undertale - The Human Souls_13
+    21300028: Undertale - The Human Souls_14
+    21300030: Undertale - The Human Souls_15
+    21300032: Undertale - The Human Souls_16
+    21300034: Undertale - The Human Souls_17
+    21300036: Undertale - The Human Souls_18
+    21300038: Undertale - The Human Souls_19
+    21300040: Undertale - The Human Souls_20
+    21300042: Undertale - The Human Souls_21
+    21300044: Undertale - The Human Souls_22
+    21300046: Undertale - The Human Souls_23
+    21300048: Undertale - The Human Souls_24
+    21300050: Undertale - The Human Souls_25
+    21300052: Undertale - The Human Souls_26
+    21300054: Undertale - The Human Souls_27
+    21300056: Undertale - The Human Souls_28
+    21300058: Undertale - The Human Souls_29
+    21300060: Undertale - The Human Souls_30
+    21300062: Undertale - The Human Souls_31
+    21300064: Undertale - The Human Souls_32
+    21300066: Undertale - The Human Souls_33
+    21300068: Undertale - The Human Souls_34
+    21300070: Undertale - The Human Souls_35
+    21300072: Undertale - The Human Souls_36
+    21300074: Undertale - The Human Souls_37
+    21300076: Undertale - The Human Souls_38
+    21300078: Undertale - The Human Souls_39
+    21300080: Undertale - The Human Souls_40
+    21300082: Undertale - The Human Souls_41
+    21300084: Undertale - The Human Souls_42
+    21300086: Undertale - The Human Souls_43
+    21300088: Undertale - The Human Souls_44
+    21300090: Undertale - The Human Souls_45
+    21300092: Undertale - The Human Souls_46
+    21300094: Undertale - The Human Souls_47
+    21300096: Undertale - The Human Souls_48
+    21300098: Undertale - The Human Souls_49
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RedHeart
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 768
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RedHeart_Small
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 748
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RedHeart_Damage
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 722
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Undertale - The Human Souls_3
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 687
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Undertale - The Human Souls_4
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 687
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Red_Heart_Left
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 660
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Red_Heart_Right
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 660
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Undertale - The Human Souls_7
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 643
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Undertale - The Human Souls_8
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 643
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Undertale - The Human Souls_9
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 643
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Undertale - The Human Souls_10
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 643
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Undertale - The Human Souls_11
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 601
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Undertale - The Human Souls_12
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 574
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Undertale - The Human Souls_13
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 548
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Undertale - The Human Souls_14
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 548
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Undertale - The Human Souls_15
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 548
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Undertale - The Human Souls_16
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 522
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Undertale - The Human Souls_17
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 522
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Undertale - The Human Souls_18
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 522
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Undertale - The Human Souls_19
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 480
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Undertale - The Human Souls_20
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 454
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Undertale - The Human Souls_21
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 412
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Undertale - The Human Souls_22
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 400
+        width: 16
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Undertale - The Human Souls_23
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 388
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Undertale - The Human Souls_24
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 388
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Undertale - The Human Souls_25
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 346
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Undertale - The Human Souls_26
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 322
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Undertale - The Human Souls_27
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 298
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Undertale - The Human Souls_28
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 274
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Undertale - The Human Souls_29
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 250
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Undertale - The Human Souls_30
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 251
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Undertale - The Human Souls_31
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 250
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Undertale - The Human Souls_32
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 250
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Undertale - The Human Souls_33
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 250
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Undertale - The Human Souls_34
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 250
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Undertale - The Human Souls_35
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Undertale - The Human Souls_36
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 184
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Undertale - The Human Souls_37
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 159
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Undertale - The Human Souls_38
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 135
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Undertale - The Human Souls_39
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 68
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Undertale - The Human Souls_40
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 68
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Undertale - The Human Souls_41
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 68
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Undertale - The Human Souls_42
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 68
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Undertale - The Human Souls_43
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 68
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Undertale - The Human Souls_44
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 68
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Undertale - The Human Souls_45
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 68
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Undertale - The Human Souls_46
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 68
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Undertale - The Human Souls_47
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 68
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Undertale - The Human Souls_48
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 68
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Undertale - The Human Souls_49
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 47
+        width: 15
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

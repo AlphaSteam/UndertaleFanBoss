@@ -1,0 +1,22 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Item.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Triggers\LaserGreen.cs" Line="1" Column="1" />
+      <File FileName="Assets\Attacks.cs" Line="96" Column="39" />
+      <File FileName="Assets\Scripts\HeartMove.cs" Line="627" Column="30" />
+      <File FileName="Assets\BattleExit.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Highlighted.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Fight\Fight.cs" Line="42" Column="3" />
+      <File FileName="Assets\Scripts\HealthBar_Enemy.cs" Line="35" Column="47" />
+      <File FileName="Assets\Scripts\HealthBar.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\PlayerHealth.cs" Line="23" Column="31" />
+      <File FileName="Assets\Scripts\Items\ItemUsage.cs" Line="37" Column="2" />
+      <File FileName="Assets\Scripts\Item.cs" Line="66" Column="27" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

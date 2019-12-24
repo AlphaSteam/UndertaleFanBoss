@@ -1,0 +1,2226 @@
+fileFormatVersion: 2
+guid: e8bd52bdb9e1fd8468dceb5eac1ad8b6
+timeCreated: 1467917827
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Flowey_0
+    21300002: Flowey_1
+    21300004: Flowey_2
+    21300006: Flowey_3
+    21300008: Flowey_4
+    21300010: Flowey_5
+    21300012: Flowey_6
+    21300014: Flowey_7
+    21300016: Flowey_8
+    21300018: Flowey_9
+    21300020: Flowey_10
+    21300022: Flowey_11
+    21300024: Flowey_12
+    21300026: Flowey_13
+    21300028: Flowey_14
+    21300030: Flowey_15
+    21300032: Flowey_16
+    21300034: Flowey_17
+    21300036: Flowey_18
+    21300038: Flowey_19
+    21300040: Flowey_20
+    21300042: Flowey_21
+    21300044: Flowey_22
+    21300046: Flowey_23
+    21300048: Flowey_24
+    21300050: Flowey_25
+    21300052: Flowey_26
+    21300054: Flowey_27
+    21300056: Rise1_5
+    21300058: Rise1_6
+    21300060: Rise1_7
+    21300062: Rise1_8
+    21300064: Rise1_1
+    21300066: Rise1_2
+    21300068: Rise1_3
+    21300070: Rise1_4
+    21300072: Rise2_5
+    21300074: Rise2_6
+    21300076: Rise2_7
+    21300078: Rise2_8
+    21300080: Rise2_1
+    21300082: Rise2_2
+    21300084: Rise2_3
+    21300086: Rise2_4
+    21300088: Flowey_46
+    21300090: Flowey_47
+    21300092: Flowey_48
+    21300094: Flowey_49
+    21300096: Flowey_50
+    21300098: Flowey_51
+    21300100: Flowey_52
+    21300102: Flowey_53
+    21300104: Flowey_54
+    21300106: Flowey_55
+    21300108: Flowey_56
+    21300110: Flowey_57
+    21300112: Flowey_58
+    21300114: Flowey_59
+    21300116: Flowey_60
+    21300118: Flowey_61
+    21300120: Flowey_62
+    21300122: Flowey_63
+    21300124: Flowey_64
+    21300126: Flowey_65
+    21300128: Flowey_66
+    21300130: Flowey_67
+    21300132: Flowey_68
+    21300134: Flowey_69
+    21300136: Flowey_70
+    21300138: Flowey_71
+    21300140: Flowey_72
+    21300142: Flowey_73
+    21300144: Flowey_74
+    21300146: Flowey_75
+    21300148: Flowey_76
+    21300150: Flowey_77
+    21300152: Flowey_78
+    21300154: Flowey_79
+    21300156: Flowey_80
+    21300158: Flowey_81
+    21300160: Flowey_82
+    21300162: Flowey_83
+    21300164: Flowey_84
+    21300166: Flowey_85
+    21300168: Flowey_86
+    21300170: Flowey_87
+    21300172: Flowey_88
+    21300174: Flowey_89
+    21300176: Flowey_90
+    21300178: Flowey_91
+    21300180: Flowey_92
+    21300182: Flowey_93
+    21300184: Flowey_94
+    21300186: Flowey_95
+    21300188: Flowey_96
+    21300190: Flowey_97
+    21300192: Flowey_98
+    21300194: Flowey_99
+    21300196: Flowey_100
+    21300198: Flowey_101
+    21300200: Flowey_102
+    21300202: Flowey_103
+    21300204: Flowey_104
+    21300206: Flowey_105
+    21300208: Flowey_106
+    21300210: Flowey_107
+    21300212: Flowey_108
+    21300214: Flowey_109
+    21300216: Flowey_110
+    21300218: Flowey_111
+    21300220: Flowey_112
+    21300222: Flowey_113
+    21300224: Flowey_114
+    21300226: Flowey_115
+    21300228: Flowey_116
+    21300230: Flowey_117
+    21300232: Flowey_118
+    21300234: Flowey_119
+    21300236: Flowey_120
+    21300238: Flowey_121
+    21300240: Flowey_122
+    21300242: Flowey_123
+    21300244: Flowey_124
+    21300246: Flowey_125
+    21300248: Flowey_126
+    21300250: Flowey_127
+    21300252: Flowey_128
+    21300254: Flowey_129
+    21300256: Flowey_130
+    21300258: Flowey_131
+    21300260: Flowey_132
+    21300262: Flowey_133
+    21300264: Flowey_134
+    21300266: Flowey_135
+    21300268: Flowey_136
+    21300270: Flowey_137
+    21300272: Flowey_138
+    21300274: Flowey_139
+    21300276: Flowey_140
+    21300278: Flowey_141
+    21300280: Flowey_142
+    21300282: Flowey_143
+    21300284: Flowey_144
+    21300286: Flowey_145
+    21300288: Flowey_146
+    21300290: Flowey_147
+    21300292: Flowey_148
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Flowey_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1686
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 22}
+        - {x: -21, y: 18}
+        - {x: -21, y: -6}
+        - {x: -9, y: -22}
+        - {x: 8, y: -22}
+        - {x: 21, y: -5}
+        - {x: 21, y: 17}
+        - {x: 17, y: 22}
+    - name: Flowey_1
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 1686
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 22}
+        - {x: -21, y: 18}
+        - {x: -21, y: -6}
+        - {x: -9, y: -22}
+        - {x: 8, y: -22}
+        - {x: 21, y: -5}
+        - {x: 21, y: 17}
+        - {x: 17, y: 22}
+    - name: Flowey_2
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 1707
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Flowey_3
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 1707
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Flowey_4
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1620
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 22}
+        - {x: -21, y: 18}
+        - {x: -21, y: -6}
+        - {x: -9, y: -22}
+        - {x: 8, y: -22}
+        - {x: 21, y: -5}
+        - {x: 21, y: 17}
+        - {x: 17, y: 22}
+    - name: Flowey_5
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 1620
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 22}
+        - {x: -21, y: 18}
+        - {x: -21, y: -6}
+        - {x: -9, y: -22}
+        - {x: 8, y: -22}
+        - {x: 21, y: -5}
+        - {x: 21, y: 17}
+        - {x: 17, y: 22}
+    - name: Flowey_6
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 1620
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 22}
+        - {x: -21, y: 18}
+        - {x: -21, y: -6}
+        - {x: -9, y: -22}
+        - {x: 8, y: -22}
+        - {x: 21, y: -5}
+        - {x: 21, y: 17}
+        - {x: 17, y: 22}
+    - name: Flowey_7
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 1620
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 22}
+        - {x: -21, y: 18}
+        - {x: -21, y: -6}
+        - {x: -9, y: -22}
+        - {x: 8, y: -22}
+        - {x: 21, y: -5}
+        - {x: 21, y: 17}
+        - {x: 17, y: 22}
+    - name: Flowey_8
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1552
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 22}
+        - {x: -21, y: -22}
+        - {x: 21, y: -22}
+        - {x: 21, y: 22}
+    - name: Flowey_9
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 1552
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 22}
+        - {x: -21, y: -22}
+        - {x: 21, y: -22}
+        - {x: 21, y: 22}
+    - name: Flowey_10
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1487
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 22}
+        - {x: -21, y: -22}
+        - {x: 21, y: -22}
+        - {x: 21, y: 22}
+    - name: Flowey_11
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 1487
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 22}
+        - {x: -21, y: -22}
+        - {x: 21, y: -22}
+        - {x: 21, y: 22}
+    - name: Flowey_12
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1420
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 22}
+        - {x: -21, y: -22}
+        - {x: 21, y: -22}
+        - {x: 21, y: 22}
+    - name: Flowey_13
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 1420
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 22}
+        - {x: -21, y: -22}
+        - {x: 21, y: -22}
+        - {x: 21, y: 22}
+    - name: Flowey_14
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1354
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 22}
+        - {x: -21, y: -22}
+        - {x: 21, y: -22}
+        - {x: 21, y: 22}
+    - name: Flowey_15
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 1354
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 22}
+        - {x: -21, y: -22}
+        - {x: 21, y: -22}
+        - {x: 21, y: 22}
+    - name: Flowey_16
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1283
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 22}
+        - {x: -21, y: -12}
+        - {x: -17, y: -22}
+        - {x: 17, y: -22}
+        - {x: 21, y: -10}
+        - {x: 21, y: 14}
+        - {x: 14, y: 22}
+    - name: Flowey_17
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 1283
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 21.5}
+        - {x: -21, y: -16.5}
+        - {x: -14, y: -21.5}
+        - {x: 9, y: -21.5}
+        - {x: 13, y: -20.5}
+        - {x: 9, y: -16.5}
+        - {x: 21, y: -11.5}
+        - {x: 21, y: 21.5}
+    - name: Flowey_18
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1211
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 22}
+        - {x: -21, y: -22}
+        - {x: 21, y: -22}
+        - {x: 21, y: 22}
+    - name: Flowey_19
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 1211
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 22}
+        - {x: -21, y: -22}
+        - {x: 21, y: -22}
+        - {x: 21, y: 22}
+    - name: Flowey_20
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 1211
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 22}
+        - {x: -21, y: -22}
+        - {x: 21, y: -22}
+        - {x: 21, y: 22}
+    - name: Flowey_21
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 1211
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 22}
+        - {x: -21, y: -22}
+        - {x: 21, y: -22}
+        - {x: 21, y: 22}
+    - name: Flowey_22
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1140
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 22}
+        - {x: -21, y: -22}
+        - {x: 21, y: -22}
+        - {x: 21, y: 22}
+    - name: Flowey_23
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1064
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 22}
+        - {x: -21, y: -22}
+        - {x: 21, y: -22}
+        - {x: 21, y: 22}
+    - name: Flowey_24
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 993
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 22}
+        - {x: -21, y: 18}
+        - {x: -21, y: -6}
+        - {x: -9, y: -22}
+        - {x: 8, y: -22}
+        - {x: 21, y: -5}
+        - {x: 21, y: 17}
+        - {x: 17, y: 22}
+    - name: Flowey_25
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 993
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 22}
+        - {x: -21, y: 18}
+        - {x: -21, y: -6}
+        - {x: -9, y: -22}
+        - {x: 8, y: -22}
+        - {x: 21, y: -5}
+        - {x: 21, y: 17}
+        - {x: 17, y: 22}
+    - name: Flowey_26
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 913
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 22}
+        - {x: -21, y: 18}
+        - {x: -21, y: -6}
+        - {x: -9, y: -22}
+        - {x: 8, y: -22}
+        - {x: 21, y: -5}
+        - {x: 21, y: 17}
+        - {x: 17, y: 22}
+    - name: Flowey_27
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 913
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 22}
+        - {x: -21, y: 18}
+        - {x: -21, y: -6}
+        - {x: -9, y: -22}
+        - {x: 8, y: -22}
+        - {x: 21, y: -5}
+        - {x: 21, y: 17}
+        - {x: 17, y: 22}
+    - name: Rise2_5
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 743
+        width: 41
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.5, y: 3.5}
+        - {x: -20.5, y: -0.5}
+        - {x: -20.5, y: -15.5}
+        - {x: -16.5, y: -24.5}
+        - {x: 17.5, y: -24.5}
+        - {x: 20.5, y: -20.5}
+        - {x: 20.5, y: -3.5}
+        - {x: 16.5, y: 3.5}
+    - name: Rise2_6
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 743
+        width: 41
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.5, y: 11.5}
+        - {x: -20.5, y: 5.5}
+        - {x: -20.5, y: -10.5}
+        - {x: -12.5, y: -24.5}
+        - {x: 17.5, y: -24.5}
+        - {x: 20.5, y: -13.5}
+        - {x: 20.5, y: 7.5}
+        - {x: 14.5, y: 11.5}
+    - name: Rise2_7
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 743
+        width: 41
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17.5, y: 24.5}
+        - {x: -20.5, y: 24.5}
+        - {x: -20.5, y: -8.5}
+        - {x: -13.5, y: -24.5}
+        - {x: 10.5, y: -24.5}
+        - {x: 12.5, y: -23.5}
+        - {x: 11.5, y: -17.5}
+        - {x: 20.5, y: -9.5}
+        - {x: 20.5, y: 23.5}
+    - name: Rise2_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 743
+        width: 41
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13.5, y: 22.5}
+        - {x: -13.5, y: 22.5}
+        - {x: -20.5, y: 16.5}
+        - {x: -20.5, y: -4.5}
+        - {x: -8.5, y: -24.5}
+        - {x: 8.5, y: -24.5}
+        - {x: 13.5, y: -23.5}
+        - {x: 20.5, y: -5.5}
+        - {x: 20.5, y: 16.5}
+    - name: Rise2_1
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 744
+        width: 7
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rise2_2
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 744
+        width: 15
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rise2_3
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 744
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: -13.5}
+        - {x: -18, y: -24.5}
+        - {x: 18, y: -24.5}
+        - {x: 18, y: -13.5}
+    - name: Rise2_4
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 744
+        width: 41
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.5, y: -6.5}
+        - {x: -20.5, y: -9.5}
+        - {x: -20.5, y: -24.5}
+        - {x: 20.5, y: -24.5}
+        - {x: 20.5, y: -6.5}
+    - name: Flowey_46
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 672
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 22}
+        - {x: -21, y: -22}
+        - {x: 21, y: -22}
+        - {x: 21, y: 22}
+    - name: Flowey_47
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 672
+        width: 43
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.5, y: 22}
+        - {x: -21.5, y: -22}
+        - {x: 21.5, y: -22}
+        - {x: 21.5, y: 22}
+    - name: Flowey_48
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 672
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 22}
+        - {x: -21, y: -22}
+        - {x: 21, y: -22}
+        - {x: 21, y: 22}
+    - name: Flowey_49
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 672
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 22}
+        - {x: -21, y: -22}
+        - {x: 21, y: -22}
+        - {x: 21, y: 22}
+    - name: Flowey_50
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 672
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 22}
+        - {x: -21, y: -22}
+        - {x: 21, y: -22}
+        - {x: 21, y: 22}
+    - name: Flowey_51
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 592
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 22.5}
+        - {x: -21, y: -22.5}
+        - {x: 21, y: -22.5}
+        - {x: 21, y: 22.5}
+    - name: Flowey_52
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 592
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 22.5}
+        - {x: -21, y: -22.5}
+        - {x: 21, y: -22.5}
+        - {x: 21, y: 22.5}
+    - name: Flowey_53
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 526
+        width: 39
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Flowey_54
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 448
+        width: 39
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: 18}
+        - {x: -19.5, y: -18}
+        - {x: 19.5, y: -18}
+        - {x: 19.5, y: 18}
+    - name: Flowey_55
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 448
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: 19}
+        - {x: -19.5, y: -19}
+        - {x: 19.5, y: -19}
+        - {x: 19.5, y: 19}
+    - name: Flowey_56
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 448
+        width: 39
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: 21.5}
+        - {x: -19.5, y: -21.5}
+        - {x: 19.5, y: -21.5}
+        - {x: 19.5, y: 21.5}
+    - name: Flowey_57
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 448
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.5, y: 21}
+        - {x: -21.5, y: -21}
+        - {x: 21.5, y: -21}
+        - {x: 21.5, y: 21}
+    - name: Flowey_58
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 448
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.5, y: 21}
+        - {x: -21.5, y: -21}
+        - {x: 21.5, y: -21}
+        - {x: 21.5, y: 21}
+    - name: Flowey_59
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 448
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 21}
+        - {x: -22, y: -21}
+        - {x: 22, y: -21}
+        - {x: 22, y: 21}
+    - name: Flowey_60
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 448
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.5, y: 21}
+        - {x: -21.5, y: -21}
+        - {x: 21.5, y: -21}
+        - {x: 21.5, y: 21}
+    - name: Flowey_61
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 448
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.5, y: 21}
+        - {x: -21.5, y: -21}
+        - {x: 21.5, y: -21}
+        - {x: 21.5, y: 21}
+    - name: Flowey_62
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 448
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.5, y: 21}
+        - {x: -21.5, y: -21}
+        - {x: 21.5, y: -21}
+        - {x: 21.5, y: 21}
+    - name: Flowey_63
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 448
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.5, y: 21}
+        - {x: -21.5, y: -21}
+        - {x: 21.5, y: -21}
+        - {x: 21.5, y: 21}
+    - name: Flowey_64
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 448
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.5, y: 21}
+        - {x: -21.5, y: -21}
+        - {x: 21.5, y: -21}
+        - {x: 21.5, y: 21}
+    - name: Flowey_65
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 448
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.5, y: 21}
+        - {x: -21.5, y: -21}
+        - {x: 21.5, y: -21}
+        - {x: 21.5, y: 21}
+    - name: Flowey_66
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 448
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.5, y: 21}
+        - {x: -21.5, y: -21}
+        - {x: 21.5, y: -21}
+        - {x: 21.5, y: 21}
+    - name: Flowey_67
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 448
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.5, y: 21}
+        - {x: -21.5, y: -21}
+        - {x: 21.5, y: -21}
+        - {x: 21.5, y: 21}
+    - name: Flowey_68
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 369
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 21}
+        - {x: -22, y: -21}
+        - {x: 22, y: -21}
+        - {x: 22, y: 21}
+    - name: Flowey_69
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 369
+        width: 43
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.5, y: 22}
+        - {x: -21.5, y: -22}
+        - {x: 21.5, y: -22}
+        - {x: 21.5, y: 22}
+    - name: Flowey_70
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 369
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.5, y: 21}
+        - {x: -21.5, y: -21}
+        - {x: 21.5, y: -21}
+        - {x: 21.5, y: 21}
+    - name: Flowey_71
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 369
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.5, y: 21}
+        - {x: -21.5, y: -21}
+        - {x: 21.5, y: -21}
+        - {x: 21.5, y: 21}
+    - name: Flowey_72
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 369
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.5, y: 21}
+        - {x: -21.5, y: -21}
+        - {x: 21.5, y: -21}
+        - {x: 21.5, y: 21}
+    - name: Flowey_73
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 369
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.5, y: 21}
+        - {x: -21.5, y: -21}
+        - {x: 21.5, y: -21}
+        - {x: 21.5, y: 21}
+    - name: Flowey_74
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 369
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.5, y: 21}
+        - {x: -21.5, y: -21}
+        - {x: 21.5, y: -21}
+        - {x: 21.5, y: 21}
+    - name: Flowey_75
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 369
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.5, y: 21}
+        - {x: -21.5, y: -21}
+        - {x: 21.5, y: -21}
+        - {x: 21.5, y: 21}
+    - name: Flowey_76
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 369
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.5, y: 21}
+        - {x: -21.5, y: -21}
+        - {x: 21.5, y: -21}
+        - {x: 21.5, y: 21}
+    - name: Flowey_77
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 310
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Flowey_78
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 310
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Flowey_79
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 310
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Flowey_80
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 310
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Flowey_81
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 292
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 22}
+        - {x: -21, y: -22}
+        - {x: 21, y: -22}
+        - {x: 21, y: 22}
+    - name: Flowey_82
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 292
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 22}
+        - {x: -21, y: -22}
+        - {x: 21, y: -22}
+        - {x: 21, y: 22}
+    - name: Flowey_83
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 292
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 22}
+        - {x: -21, y: -22}
+        - {x: 21, y: -22}
+        - {x: 21, y: 22}
+    - name: Flowey_84
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 292
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 22}
+        - {x: -21, y: -22}
+        - {x: 21, y: -22}
+        - {x: 21, y: 22}
+    - name: Flowey_85
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 292
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 22}
+        - {x: -21, y: -22}
+        - {x: 21, y: -22}
+        - {x: 21, y: 22}
+    - name: Flowey_86
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 292
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 22}
+        - {x: -21, y: -22}
+        - {x: 21, y: -22}
+        - {x: 21, y: 22}
+    - name: Flowey_87
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 292
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 22}
+        - {x: -21, y: -22}
+        - {x: 21, y: -22}
+        - {x: 21, y: 22}
+    - name: Flowey_88
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 292
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 22}
+        - {x: -21, y: -22}
+        - {x: 21, y: -22}
+        - {x: 21, y: 22}
+    - name: Flowey_89
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 232
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Flowey_90
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 232
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Flowey_91
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 232
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Flowey_92
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 232
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Flowey_93
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 232
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Flowey_94
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 232
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Flowey_95
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 229
+        width: 42
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Flowey_96
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 229
+        width: 42
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Flowey_97
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 229
+        width: 42
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Flowey_98
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 229
+        width: 42
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Flowey_99
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 229
+        width: 42
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Flowey_100
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 195
+        width: 42
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Flowey_101
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 197
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Flowey_102
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 197
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Flowey_103
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 197
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Flowey_104
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 197
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Flowey_105
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 191
+        width: 42
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 16}
+        - {x: -21, y: -16}
+        - {x: 21, y: -16}
+        - {x: 21, y: 16}
+    - name: Flowey_106
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 190
+        width: 42
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 16.5}
+        - {x: -21, y: -16.5}
+        - {x: 21, y: -16.5}
+        - {x: 21, y: 16.5}
+    - name: Flowey_107
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 190
+        width: 42
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 16.5}
+        - {x: -21, y: -16.5}
+        - {x: 21, y: -16.5}
+        - {x: 21, y: 16.5}
+    - name: Flowey_108
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 191
+        width: 42
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 16}
+        - {x: -21, y: -16}
+        - {x: 21, y: -16}
+        - {x: 21, y: 16}
+    - name: Flowey_109
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 162
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Flowey_110
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 162
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Flowey_111
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 162
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Flowey_112
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 162
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Flowey_113
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 162
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Flowey_114
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 162
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Flowey_115
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 162
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Flowey_116
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 162
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Flowey_117
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 162
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Flowey_118
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 162
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Flowey_119
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 127
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Flowey_120
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 127
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Flowey_121
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 125
+        width: 42
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Flowey_122
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 125
+        width: 42
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Flowey_123
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 124
+        width: 42
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Flowey_124
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 124
+        width: 42
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Flowey_125
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 127
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Flowey_126
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 127
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Flowey_127
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 127
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Flowey_128
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 127
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Flowey_129
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 127
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Flowey_130
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 127
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Flowey_131
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 92
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Flowey_132
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 92
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Flowey_133
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 92
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Flowey_134
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 92
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Flowey_135
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 92
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Flowey_136
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 92
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Flowey_137
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 92
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Flowey_138
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 92
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Flowey_139
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 92
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Flowey_140
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 92
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Flowey_141
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 92
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Flowey_142
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 92
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Flowey_143
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 59
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Flowey_144
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 59
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Flowey_145
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 59
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Flowey_146
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 59
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Flowey_147
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 59
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Flowey_148
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 59
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rise1_7
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 828
+        width: 41
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17.5, y: 24.5}
+        - {x: -20.5, y: 24.5}
+        - {x: -20.5, y: -8.5}
+        - {x: -13.5, y: -24.5}
+        - {x: 10.5, y: -24.5}
+        - {x: 12.5, y: -23.5}
+        - {x: 11.5, y: -17.5}
+        - {x: 20.5, y: -9.5}
+        - {x: 20.5, y: 23.5}
+    - name: Rise1_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 828
+        width: 41
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13.5, y: 22.5}
+        - {x: -13.5, y: 22.5}
+        - {x: -20.5, y: 16.5}
+        - {x: -20.5, y: -4.5}
+        - {x: -8.5, y: -24.5}
+        - {x: 8.5, y: -24.5}
+        - {x: 13.5, y: -23.5}
+        - {x: 20.5, y: -5.5}
+        - {x: 20.5, y: 16.5}
+    - name: Rise1_6
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 828
+        width: 41
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.5, y: 11.5}
+        - {x: -20.5, y: 5.5}
+        - {x: -20.5, y: -10.5}
+        - {x: -12.5, y: -24.5}
+        - {x: 17.5, y: -24.5}
+        - {x: 20.5, y: -13.5}
+        - {x: 20.5, y: 7.5}
+        - {x: 14.5, y: 11.5}
+    - name: Rise1_5
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 828
+        width: 41
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.5, y: 3.5}
+        - {x: -20.5, y: -0.5}
+        - {x: -20.5, y: -15.5}
+        - {x: -16.5, y: -24.5}
+        - {x: 17.5, y: -24.5}
+        - {x: 20.5, y: -20.5}
+        - {x: 20.5, y: -3.5}
+        - {x: 16.5, y: 3.5}
+    - name: Rise1_4
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 828
+        width: 41
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.5, y: -6.5}
+        - {x: -20.5, y: -9.5}
+        - {x: -20.5, y: -24.5}
+        - {x: 20.5, y: -24.5}
+        - {x: 20.5, y: -6.5}
+    - name: Rise1_3
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 828
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: -13.5}
+        - {x: -18, y: -24.5}
+        - {x: 18, y: -24.5}
+        - {x: 18, y: -13.5}
+    - name: Rise1_2
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 828
+        width: 15
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Rise1_1
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 828
+        width: 7
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

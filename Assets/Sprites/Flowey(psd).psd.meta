@@ -1,0 +1,2188 @@
+fileFormatVersion: 2
+guid: 92f7d787bacb1b5429ac56e86ac880d9
+timeCreated: 1467872613
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Flowey(psd)_0
+    21300002: Flowey(psd)_1
+    21300004: Flowey(psd)_2
+    21300006: Flowey(psd)_3
+    21300008: Flowey(psd)_4
+    21300010: Flowey(psd)_5
+    21300012: Flowey(psd)_6
+    21300014: Flowey(psd)_7
+    21300016: Flowey(psd)_8
+    21300018: Flowey(psd)_9
+    21300020: Flowey(psd)_10
+    21300022: Flowey(psd)_11
+    21300024: Flowey(psd)_12
+    21300026: Flowey(psd)_13
+    21300028: Flowey(psd)_14
+    21300030: Flowey(psd)_15
+    21300032: Flowey(psd)_16
+    21300034: Flowey(psd)_17
+    21300036: Flowey(psd)_18
+    21300038: Flowey(psd)_19
+    21300040: Flowey(psd)_20
+    21300042: Flowey(psd)_21
+    21300044: Flowey(psd)_22
+    21300046: Flowey(psd)_23
+    21300048: Flowey(psd)_24
+    21300050: Flowey(psd)_25
+    21300052: Flowey(psd)_26
+    21300054: Flowey(psd)_27
+    21300056: Flowey(psd)_28
+    21300058: Flowey(psd)_29
+    21300060: Flowey(psd)_30
+    21300062: Flowey(psd)_31
+    21300064: Flowey(psd)_33
+    21300066: Flowey(psd)_34
+    21300068: Flowey(psd)_35
+    21300070: Flowey(psd)_36
+    21300072: Flowey(psd)_37
+    21300074: Flowey(psd)_38
+    21300076: Flowey(psd)_39
+    21300078: Flowey(psd)_40
+    21300080: Flowey(psd)_42
+    21300082: Flowey(psd)_43
+    21300084: Flowey(psd)_44
+    21300086: Flowey(psd)_45
+    21300088: Flowey(psd)_46
+    21300090: Flowey(psd)_47
+    21300092: Flowey(psd)_48
+    21300094: Flowey(psd)_49
+    21300096: Flowey(psd)_50
+    21300098: Flowey(psd)_51
+    21300100: Flowey(psd)_52
+    21300102: Flowey(psd)_53
+    21300104: Flowey(psd)_54
+    21300106: Flowey(psd)_55
+    21300108: Flowey(psd)_56
+    21300110: Flowey(psd)_57
+    21300112: Flowey(psd)_58
+    21300114: Flowey(psd)_59
+    21300116: Flowey(psd)_60
+    21300118: Flowey(psd)_61
+    21300120: Flowey(psd)_62
+    21300122: Flowey(psd)_63
+    21300124: Flowey(psd)_64
+    21300126: Flowey(psd)_65
+    21300128: Flowey(psd)_66
+    21300130: Flowey(psd)_67
+    21300132: Flowey(psd)_68
+    21300134: Flowey(psd)_69
+    21300136: Flowey(psd)_70
+    21300138: Flowey(psd)_71
+    21300140: Flowey(psd)_72
+    21300142: Flowey(psd)_73
+    21300144: Flowey(psd)_74
+    21300146: Flowey(psd)_75
+    21300148: Flowey(psd)_76
+    21300150: Flowey(psd)_77
+    21300152: Flowey(psd)_78
+    21300154: Flowey(psd)_79
+    21300156: Flowey(psd)_80
+    21300158: Flowey(psd)_81
+    21300160: Flowey(psd)_82
+    21300162: Flowey(psd)_83
+    21300164: Flowey(psd)_84
+    21300166: Flowey(psd)_85
+    21300168: Flowey(psd)_86
+    21300170: Flowey(psd)_87
+    21300172: Flowey(psd)_88
+    21300174: Flowey(psd)_89
+    21300176: Flowey(psd)_90
+    21300178: Flowey(psd)_91
+    21300180: Flowey(psd)_92
+    21300182: Flowey(psd)_93
+    21300184: Flowey(psd)_94
+    21300186: Flowey(psd)_95
+    21300188: Flowey(psd)_96
+    21300190: Flowey(psd)_97
+    21300192: Flowey(psd)_98
+    21300194: Flowey(psd)_99
+    21300196: Flowey(psd)_100
+    21300198: Flowey(psd)_101
+    21300200: Flowey(psd)_102
+    21300202: Flowey(psd)_103
+    21300204: Flowey(psd)_104
+    21300206: Flowey(psd)_105
+    21300208: Flowey(psd)_106
+    21300210: Flowey(psd)_107
+    21300212: Flowey(psd)_108
+    21300214: Flowey(psd)_109
+    21300216: Flowey(psd)_110
+    21300218: Flowey(psd)_111
+    21300220: Flowey(psd)_112
+    21300222: Flowey(psd)_113
+    21300224: Flowey(psd)_114
+    21300226: Flowey(psd)_115
+    21300228: Flowey(psd)_116
+    21300230: Flowey(psd)_117
+    21300232: Flowey(psd)_118
+    21300234: Flowey(psd)_119
+    21300236: Flowey(psd)_120
+    21300238: Flowey(psd)_121
+    21300240: Flowey(psd)_122
+    21300242: Flowey(psd)_123
+    21300244: Flowey(psd)_124
+    21300246: Flowey(psd)_125
+    21300248: Flowey(psd)_126
+    21300250: Flowey(psd)_127
+    21300252: Flowey(psd)_128
+    21300254: Flowey(psd)_129
+    21300256: Flowey(psd)_130
+    21300258: Flowey(psd)_131
+    21300260: Flowey(psd)_132
+    21300262: Flowey(psd)_133
+    21300264: Flowey(psd)_134
+    21300266: Flowey(psd)_135
+    21300268: Flowey(psd)_136
+    21300270: Flowey(psd)_137
+    21300272: Flowey(psd)_138
+    21300274: Flowey(psd)_139
+    21300276: Flowey(psd)_140
+    21300278: Flowey(psd)_141
+    21300280: Flowey(psd)_142
+    21300282: Flowey(psd)_143
+    21300284: Flowey(psd)_144
+    21300286: Flowey(psd)_145
+    21300288: Flowey(psd)_146
+    21300290: Flowey(psd)_147
+    21300292: Flowey(psd)_148
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Flowey(psd)_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1686
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 22}
+        - {x: -21, y: 18}
+        - {x: -21, y: -6}
+        - {x: -9, y: -22}
+        - {x: 8, y: -22}
+        - {x: 21, y: -5}
+        - {x: 21, y: 17}
+        - {x: 17, y: 22}
+    - name: Flowey(psd)_1
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 1686
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 22}
+        - {x: -21, y: 18}
+        - {x: -21, y: -6}
+        - {x: -9, y: -22}
+        - {x: 8, y: -22}
+        - {x: 21, y: -5}
+        - {x: 21, y: 17}
+        - {x: 17, y: 22}
+    - name: Flowey(psd)_2
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 1707
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Flowey(psd)_3
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 1707
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Flowey(psd)_4
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1620
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 22}
+        - {x: -21, y: 18}
+        - {x: -21, y: -6}
+        - {x: -9, y: -22}
+        - {x: 8, y: -22}
+        - {x: 21, y: -5}
+        - {x: 21, y: 17}
+        - {x: 17, y: 22}
+    - name: Flowey(psd)_5
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 1620
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 22}
+        - {x: -21, y: 18}
+        - {x: -21, y: -6}
+        - {x: -9, y: -22}
+        - {x: 8, y: -22}
+        - {x: 21, y: -5}
+        - {x: 21, y: 17}
+        - {x: 17, y: 22}
+    - name: Flowey(psd)_6
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 1620
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 22}
+        - {x: -21, y: 18}
+        - {x: -21, y: -6}
+        - {x: -9, y: -22}
+        - {x: 8, y: -22}
+        - {x: 21, y: -5}
+        - {x: 21, y: 17}
+        - {x: 17, y: 22}
+    - name: Flowey(psd)_7
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 1620
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 22}
+        - {x: -21, y: 18}
+        - {x: -21, y: -6}
+        - {x: -9, y: -22}
+        - {x: 8, y: -22}
+        - {x: 21, y: -5}
+        - {x: 21, y: 17}
+        - {x: 17, y: 22}
+    - name: Flowey(psd)_8
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1552
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 22}
+        - {x: -21, y: -22}
+        - {x: 21, y: -22}
+        - {x: 21, y: 22}
+    - name: Flowey(psd)_9
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 1552
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 22}
+        - {x: -21, y: -22}
+        - {x: 21, y: -22}
+        - {x: 21, y: 22}
+    - name: Flowey(psd)_10
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1487
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 22}
+        - {x: -21, y: -22}
+        - {x: 21, y: -22}
+        - {x: 21, y: 22}
+    - name: Flowey(psd)_11
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 1487
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 22}
+        - {x: -21, y: -22}
+        - {x: 21, y: -22}
+        - {x: 21, y: 22}
+    - name: Flowey(psd)_12
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1420
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 22}
+        - {x: -21, y: -22}
+        - {x: 21, y: -22}
+        - {x: 21, y: 22}
+    - name: Flowey(psd)_13
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 1420
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 22}
+        - {x: -21, y: -22}
+        - {x: 21, y: -22}
+        - {x: 21, y: 22}
+    - name: Flowey(psd)_14
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1354
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 22}
+        - {x: -21, y: -22}
+        - {x: 21, y: -22}
+        - {x: 21, y: 22}
+    - name: Flowey(psd)_15
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 1354
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 22}
+        - {x: -21, y: -22}
+        - {x: 21, y: -22}
+        - {x: 21, y: 22}
+    - name: Flowey(psd)_16
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1283
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 22}
+        - {x: -21, y: -12}
+        - {x: -17, y: -22}
+        - {x: 17, y: -22}
+        - {x: 21, y: -10}
+        - {x: 21, y: 14}
+        - {x: 14, y: 22}
+    - name: Flowey(psd)_17
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 1283
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 21.5}
+        - {x: -21, y: -16.5}
+        - {x: -14, y: -21.5}
+        - {x: 9, y: -21.5}
+        - {x: 13, y: -20.5}
+        - {x: 9, y: -16.5}
+        - {x: 21, y: -11.5}
+        - {x: 21, y: 21.5}
+    - name: Flowey(psd)_18
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1211
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 22}
+        - {x: -21, y: -22}
+        - {x: 21, y: -22}
+        - {x: 21, y: 22}
+    - name: Flowey(psd)_19
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 1211
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 22}
+        - {x: -21, y: -22}
+        - {x: 21, y: -22}
+        - {x: 21, y: 22}
+    - name: Flowey(psd)_20
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 1211
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 22}
+        - {x: -21, y: -22}
+        - {x: 21, y: -22}
+        - {x: 21, y: 22}
+    - name: Flowey(psd)_21
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 1211
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 22}
+        - {x: -21, y: -22}
+        - {x: 21, y: -22}
+        - {x: 21, y: 22}
+    - name: Flowey(psd)_22
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1140
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 22}
+        - {x: -21, y: -22}
+        - {x: 21, y: -22}
+        - {x: 21, y: 22}
+    - name: Flowey(psd)_23
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1064
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 22}
+        - {x: -21, y: -22}
+        - {x: 21, y: -22}
+        - {x: 21, y: 22}
+    - name: Flowey(psd)_24
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 993
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 22}
+        - {x: -21, y: 18}
+        - {x: -21, y: -6}
+        - {x: -9, y: -22}
+        - {x: 8, y: -22}
+        - {x: 21, y: -5}
+        - {x: 21, y: 17}
+        - {x: 17, y: 22}
+    - name: Flowey(psd)_25
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 993
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 22}
+        - {x: -21, y: 18}
+        - {x: -21, y: -6}
+        - {x: -9, y: -22}
+        - {x: 8, y: -22}
+        - {x: 21, y: -5}
+        - {x: 21, y: 17}
+        - {x: 17, y: 22}
+    - name: Flowey(psd)_26
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 913
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 22}
+        - {x: -21, y: 18}
+        - {x: -21, y: -6}
+        - {x: -9, y: -22}
+        - {x: 8, y: -22}
+        - {x: 21, y: -5}
+        - {x: 21, y: 17}
+        - {x: 17, y: 22}
+    - name: Flowey(psd)_27
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 913
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 22}
+        - {x: -21, y: 18}
+        - {x: -21, y: -6}
+        - {x: -9, y: -22}
+        - {x: 8, y: -22}
+        - {x: 21, y: -5}
+        - {x: 21, y: 17}
+        - {x: 17, y: 22}
+    - name: Flowey(psd)_28
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 828
+        width: 41
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Flowey(psd)_29
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 828
+        width: 41
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 17}
+        - {x: -20.5, y: 12}
+        - {x: -20.5, y: -5}
+        - {x: -11.5, y: -17}
+        - {x: 16.5, y: -17}
+        - {x: 20.5, y: -3}
+        - {x: 20.5, y: 14}
+        - {x: 15.5, y: 17}
+    - name: Flowey(psd)_30
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 828
+        width: 41
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17.5, y: 24.5}
+        - {x: -20.5, y: 24.5}
+        - {x: -20.5, y: -8.5}
+        - {x: -13.5, y: -24.5}
+        - {x: 10.5, y: -24.5}
+        - {x: 12.5, y: -23.5}
+        - {x: 11.5, y: -17.5}
+        - {x: 20.5, y: -9.5}
+        - {x: 20.5, y: 23.5}
+    - name: Flowey(psd)_31
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 828
+        width: 41
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.5, y: 22.5}
+        - {x: -20.5, y: 19.5}
+        - {x: -20.5, y: -13.5}
+        - {x: -17.5, y: -22.5}
+        - {x: 19.5, y: -22.5}
+        - {x: 20.5, y: -19.5}
+        - {x: 20.5, y: 22.5}
+    - name: Flowey(psd)_33
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 828
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Flowey(psd)_34
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 828
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Flowey(psd)_35
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 828
+        width: 36
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Flowey(psd)_36
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 828
+        width: 41
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Flowey(psd)_37
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 743
+        width: 41
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Flowey(psd)_38
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 743
+        width: 41
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 17}
+        - {x: -20.5, y: 12}
+        - {x: -20.5, y: -5}
+        - {x: -11.5, y: -17}
+        - {x: 16.5, y: -17}
+        - {x: 20.5, y: -3}
+        - {x: 20.5, y: 14}
+        - {x: 15.5, y: 17}
+    - name: Flowey(psd)_39
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 743
+        width: 41
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17.5, y: 24.5}
+        - {x: -20.5, y: 24.5}
+        - {x: -20.5, y: -8.5}
+        - {x: -13.5, y: -24.5}
+        - {x: 10.5, y: -24.5}
+        - {x: 12.5, y: -23.5}
+        - {x: 11.5, y: -17.5}
+        - {x: 20.5, y: -9.5}
+        - {x: 20.5, y: 23.5}
+    - name: Flowey(psd)_40
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 743
+        width: 41
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.5, y: 22.5}
+        - {x: -20.5, y: 19.5}
+        - {x: -20.5, y: -13.5}
+        - {x: -17.5, y: -22.5}
+        - {x: 19.5, y: -22.5}
+        - {x: 20.5, y: -19.5}
+        - {x: 20.5, y: 22.5}
+    - name: Flowey(psd)_42
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 744
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Flowey(psd)_43
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 744
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Flowey(psd)_44
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 744
+        width: 36
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Flowey(psd)_45
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 744
+        width: 41
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Flowey(psd)_46
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 672
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 22}
+        - {x: -21, y: -22}
+        - {x: 21, y: -22}
+        - {x: 21, y: 22}
+    - name: Flowey(psd)_47
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 672
+        width: 43
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.5, y: 22}
+        - {x: -21.5, y: -22}
+        - {x: 21.5, y: -22}
+        - {x: 21.5, y: 22}
+    - name: Flowey(psd)_48
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 672
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 22}
+        - {x: -21, y: -22}
+        - {x: 21, y: -22}
+        - {x: 21, y: 22}
+    - name: Flowey(psd)_49
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 672
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 22}
+        - {x: -21, y: -22}
+        - {x: 21, y: -22}
+        - {x: 21, y: 22}
+    - name: Flowey(psd)_50
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 672
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 22}
+        - {x: -21, y: -22}
+        - {x: 21, y: -22}
+        - {x: 21, y: 22}
+    - name: Flowey(psd)_51
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 592
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 22.5}
+        - {x: -21, y: -22.5}
+        - {x: 21, y: -22.5}
+        - {x: 21, y: 22.5}
+    - name: Flowey(psd)_52
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 592
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 22.5}
+        - {x: -21, y: -22.5}
+        - {x: 21, y: -22.5}
+        - {x: 21, y: 22.5}
+    - name: Flowey(psd)_53
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 526
+        width: 39
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Flowey(psd)_54
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 448
+        width: 39
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: 18}
+        - {x: -19.5, y: -18}
+        - {x: 19.5, y: -18}
+        - {x: 19.5, y: 18}
+    - name: Flowey(psd)_55
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 448
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: 19}
+        - {x: -19.5, y: -19}
+        - {x: 19.5, y: -19}
+        - {x: 19.5, y: 19}
+    - name: Flowey(psd)_56
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 448
+        width: 39
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: 21.5}
+        - {x: -19.5, y: -21.5}
+        - {x: 19.5, y: -21.5}
+        - {x: 19.5, y: 21.5}
+    - name: Flowey(psd)_57
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 448
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.5, y: 21}
+        - {x: -21.5, y: -21}
+        - {x: 21.5, y: -21}
+        - {x: 21.5, y: 21}
+    - name: Flowey(psd)_58
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 448
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.5, y: 21}
+        - {x: -21.5, y: -21}
+        - {x: 21.5, y: -21}
+        - {x: 21.5, y: 21}
+    - name: Flowey(psd)_59
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 448
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 21}
+        - {x: -22, y: -21}
+        - {x: 22, y: -21}
+        - {x: 22, y: 21}
+    - name: Flowey(psd)_60
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 448
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.5, y: 21}
+        - {x: -21.5, y: -21}
+        - {x: 21.5, y: -21}
+        - {x: 21.5, y: 21}
+    - name: Flowey(psd)_61
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 448
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.5, y: 21}
+        - {x: -21.5, y: -21}
+        - {x: 21.5, y: -21}
+        - {x: 21.5, y: 21}
+    - name: Flowey(psd)_62
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 448
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.5, y: 21}
+        - {x: -21.5, y: -21}
+        - {x: 21.5, y: -21}
+        - {x: 21.5, y: 21}
+    - name: Flowey(psd)_63
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 448
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.5, y: 21}
+        - {x: -21.5, y: -21}
+        - {x: 21.5, y: -21}
+        - {x: 21.5, y: 21}
+    - name: Flowey(psd)_64
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 448
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.5, y: 21}
+        - {x: -21.5, y: -21}
+        - {x: 21.5, y: -21}
+        - {x: 21.5, y: 21}
+    - name: Flowey(psd)_65
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 448
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.5, y: 21}
+        - {x: -21.5, y: -21}
+        - {x: 21.5, y: -21}
+        - {x: 21.5, y: 21}
+    - name: Flowey(psd)_66
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 448
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.5, y: 21}
+        - {x: -21.5, y: -21}
+        - {x: 21.5, y: -21}
+        - {x: 21.5, y: 21}
+    - name: Flowey(psd)_67
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 448
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.5, y: 21}
+        - {x: -21.5, y: -21}
+        - {x: 21.5, y: -21}
+        - {x: 21.5, y: 21}
+    - name: Flowey(psd)_68
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 369
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 21}
+        - {x: -22, y: -21}
+        - {x: 22, y: -21}
+        - {x: 22, y: 21}
+    - name: Flowey(psd)_69
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 369
+        width: 43
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.5, y: 22}
+        - {x: -21.5, y: -22}
+        - {x: 21.5, y: -22}
+        - {x: 21.5, y: 22}
+    - name: Flowey(psd)_70
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 369
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.5, y: 21}
+        - {x: -21.5, y: -21}
+        - {x: 21.5, y: -21}
+        - {x: 21.5, y: 21}
+    - name: Flowey(psd)_71
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 369
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.5, y: 21}
+        - {x: -21.5, y: -21}
+        - {x: 21.5, y: -21}
+        - {x: 21.5, y: 21}
+    - name: Flowey(psd)_72
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 369
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.5, y: 21}
+        - {x: -21.5, y: -21}
+        - {x: 21.5, y: -21}
+        - {x: 21.5, y: 21}
+    - name: Flowey(psd)_73
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 369
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.5, y: 21}
+        - {x: -21.5, y: -21}
+        - {x: 21.5, y: -21}
+        - {x: 21.5, y: 21}
+    - name: Flowey(psd)_74
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 369
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.5, y: 21}
+        - {x: -21.5, y: -21}
+        - {x: 21.5, y: -21}
+        - {x: 21.5, y: 21}
+    - name: Flowey(psd)_75
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 369
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.5, y: 21}
+        - {x: -21.5, y: -21}
+        - {x: 21.5, y: -21}
+        - {x: 21.5, y: 21}
+    - name: Flowey(psd)_76
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 369
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.5, y: 21}
+        - {x: -21.5, y: -21}
+        - {x: 21.5, y: -21}
+        - {x: 21.5, y: 21}
+    - name: Flowey(psd)_77
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 310
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Flowey(psd)_78
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 310
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Flowey(psd)_79
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 310
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Flowey(psd)_80
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 310
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Flowey(psd)_81
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 292
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 22}
+        - {x: -21, y: -22}
+        - {x: 21, y: -22}
+        - {x: 21, y: 22}
+    - name: Flowey(psd)_82
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 292
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 22}
+        - {x: -21, y: -22}
+        - {x: 21, y: -22}
+        - {x: 21, y: 22}
+    - name: Flowey(psd)_83
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 292
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 22}
+        - {x: -21, y: -22}
+        - {x: 21, y: -22}
+        - {x: 21, y: 22}
+    - name: Flowey(psd)_84
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 292
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 22}
+        - {x: -21, y: -22}
+        - {x: 21, y: -22}
+        - {x: 21, y: 22}
+    - name: Flowey(psd)_85
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 292
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 22}
+        - {x: -21, y: -22}
+        - {x: 21, y: -22}
+        - {x: 21, y: 22}
+    - name: Flowey(psd)_86
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 292
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 22}
+        - {x: -21, y: -22}
+        - {x: 21, y: -22}
+        - {x: 21, y: 22}
+    - name: Flowey(psd)_87
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 292
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 22}
+        - {x: -21, y: -22}
+        - {x: 21, y: -22}
+        - {x: 21, y: 22}
+    - name: Flowey(psd)_88
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 292
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 22}
+        - {x: -21, y: -22}
+        - {x: 21, y: -22}
+        - {x: 21, y: 22}
+    - name: Flowey(psd)_89
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 232
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Flowey(psd)_90
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 232
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Flowey(psd)_91
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 232
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Flowey(psd)_92
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 232
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Flowey(psd)_93
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 232
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Flowey(psd)_94
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 232
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Flowey(psd)_95
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 229
+        width: 42
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Flowey(psd)_96
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 229
+        width: 42
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Flowey(psd)_97
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 229
+        width: 42
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Flowey(psd)_98
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 229
+        width: 42
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Flowey(psd)_99
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 229
+        width: 42
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Flowey(psd)_100
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 195
+        width: 42
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Flowey(psd)_101
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 197
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Flowey(psd)_102
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 197
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Flowey(psd)_103
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 197
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Flowey(psd)_104
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 197
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Flowey(psd)_105
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 191
+        width: 42
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 16}
+        - {x: -21, y: -16}
+        - {x: 21, y: -16}
+        - {x: 21, y: 16}
+    - name: Flowey(psd)_106
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 190
+        width: 42
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 16.5}
+        - {x: -21, y: -16.5}
+        - {x: 21, y: -16.5}
+        - {x: 21, y: 16.5}
+    - name: Flowey(psd)_107
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 190
+        width: 42
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 16.5}
+        - {x: -21, y: -16.5}
+        - {x: 21, y: -16.5}
+        - {x: 21, y: 16.5}
+    - name: Flowey(psd)_108
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 191
+        width: 42
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 16}
+        - {x: -21, y: -16}
+        - {x: 21, y: -16}
+        - {x: 21, y: 16}
+    - name: Flowey(psd)_109
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 162
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Flowey(psd)_110
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 162
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Flowey(psd)_111
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 162
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Flowey(psd)_112
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 162
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Flowey(psd)_113
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 162
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Flowey(psd)_114
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 162
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Flowey(psd)_115
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 162
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Flowey(psd)_116
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 162
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Flowey(psd)_117
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 162
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Flowey(psd)_118
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 162
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Flowey(psd)_119
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 127
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Flowey(psd)_120
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 127
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Flowey(psd)_121
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 125
+        width: 42
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Flowey(psd)_122
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 125
+        width: 42
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Flowey(psd)_123
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 124
+        width: 42
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Flowey(psd)_124
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 124
+        width: 42
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Flowey(psd)_125
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 127
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Flowey(psd)_126
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 127
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Flowey(psd)_127
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 127
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Flowey(psd)_128
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 127
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Flowey(psd)_129
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 127
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Flowey(psd)_130
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 127
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Flowey(psd)_131
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 92
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Flowey(psd)_132
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 92
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Flowey(psd)_133
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 92
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Flowey(psd)_134
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 92
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Flowey(psd)_135
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 92
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Flowey(psd)_136
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 92
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Flowey(psd)_137
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 92
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Flowey(psd)_138
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 92
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Flowey(psd)_139
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 92
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Flowey(psd)_140
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 92
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Flowey(psd)_141
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 92
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Flowey(psd)_142
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 92
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Flowey(psd)_143
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 59
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Flowey(psd)_144
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 59
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Flowey(psd)_145
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 59
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Flowey(psd)_146
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 59
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Flowey(psd)_147
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 59
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Flowey(psd)_148
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 59
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

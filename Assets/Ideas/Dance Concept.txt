@@ -1,0 +1,4 @@
+1.-You try to dance like him (...)(This can be another Text So It takes more seconds)
+   Other=You do it very bad.
+2.-You try to dance like him...
+Other=You start to get what he is doing

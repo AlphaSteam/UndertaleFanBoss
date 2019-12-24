@@ -1,0 +1,1105 @@
+fileFormatVersion: 2
+guid: 0c833c5c9a1fed7489817682d928c092
+timeCreated: 1463869674
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Act_N
+    21300002: Act_S
+    21300004: PC Computer - Undertale - Battle Icons_2
+    21300006: Act_S_2
+    21300008: Fight_N_Bad
+    21300010: Fight_S_Bad
+    21300012: Fight_N
+    21300014: Fight_S
+    21300016: Item_N
+    21300018: Item_S
+    21300020: PC Computer - Undertale - Battle Icons_10
+    21300022: PC Computer - Undertale - Battle Icons_11
+    21300024: Mercy_N
+    21300026: Mercy_S
+    21300028: PC Computer - Undertale - Battle Icons_14
+    21300030: PC Computer - Undertale - Battle Icons_15
+    21300032: PC Computer - Undertale - Battle Icons_16
+    21300034: PC Computer - Undertale - Battle Icons_17
+    21300036: PC Computer - Undertale - Battle Icons_18
+    21300038: PC Computer - Undertale - Battle Icons_19
+    21300040: PC Computer - Undertale - Battle Icons_20
+    21300042: PC Computer - Undertale - Battle Icons_21
+    21300044: PC Computer - Undertale - Battle Icons_22
+    21300046: PC Computer - Undertale - Battle Icons_23
+    21300048: PC Computer - Undertale - Battle Icons_24
+    21300050: PC Computer - Undertale - Battle Icons_25
+    21300052: PC Computer - Undertale - Battle Icons_26
+    21300054: PC Computer - Undertale - Battle Icons_27
+    21300056: PC Computer - Undertale - Battle Icons_28
+    21300058: PC Computer - Undertale - Battle Icons_29
+    21300060: PC Computer - Undertale - Battle Icons_30
+    21300062: PC Computer - Undertale - Battle Icons_31
+    21300064: PC Computer - Undertale - Battle Icons_32
+    21300066: PC Computer - Undertale - Battle Icons_33
+    21300068: PC Computer - Undertale - Battle Icons_34
+    21300070: PC Computer - Undertale - Battle Icons_35
+    21300072: PC Computer - Undertale - Battle Icons_36
+    21300074: PC Computer - Undertale - Battle Icons_37
+    21300076: PC Computer - Undertale - Battle Icons_38
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Act_N
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 1794
+        width: 110
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -55, y: 21}
+        - {x: -55, y: -21}
+        - {x: 55, y: -21}
+        - {x: 55, y: 21}
+      - - {x: -50, y: 16}
+        - {x: 50, y: 16}
+        - {x: 50, y: -16}
+        - {x: -50, y: -16}
+      - - {x: -3, y: 15}
+        - {x: -20, y: 15}
+        - {x: -23, y: 12}
+        - {x: -23, y: -15}
+        - {x: -21, y: -16}
+        - {x: 0, y: -16}
+        - {x: 0, y: 12}
+      - - {x: 25, y: 12}
+        - {x: 24, y: 15}
+        - {x: 6, y: 15}
+        - {x: 3, y: 14}
+        - {x: 3, y: -16}
+        - {x: 24, y: -16}
+        - {x: 25, y: -13}
+      - - {x: 27, y: 15}
+        - {x: 27, y: -16}
+        - {x: 45, y: -16}
+        - {x: 49, y: -14}
+        - {x: 50, y: -5}
+        - {x: 50, y: 15}
+      - - {x: -45, y: -5}
+        - {x: -40, y: -11}
+        - {x: -30, y: -11}
+        - {x: -30, y: 5}
+        - {x: -32, y: 10}
+        - {x: -38, y: 10}
+        - {x: -45, y: 4}
+    - name: Act_S
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 1739
+        width: 112
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -56, y: 22}
+        - {x: -56, y: -22}
+        - {x: 56, y: -22}
+        - {x: 56, y: 22}
+      - - {x: -50, y: 16}
+        - {x: 50, y: 16}
+        - {x: 50, y: -16}
+        - {x: -50, y: -16}
+      - - {x: -3, y: 15}
+        - {x: -20, y: 15}
+        - {x: -23, y: 12}
+        - {x: -23, y: -15}
+        - {x: -21, y: -16}
+        - {x: 0, y: -16}
+        - {x: 0, y: 12}
+      - - {x: 25, y: 12}
+        - {x: 24, y: 15}
+        - {x: 6, y: 15}
+        - {x: 3, y: 14}
+        - {x: 3, y: -16}
+        - {x: 24, y: -16}
+        - {x: 25, y: -13}
+      - - {x: 27, y: 15}
+        - {x: 27, y: -16}
+        - {x: 45, y: -16}
+        - {x: 49, y: -14}
+        - {x: 50, y: -5}
+        - {x: 50, y: 15}
+    - name: PC Computer - Undertale - Battle Icons_2
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 1683
+        width: 112
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -56, y: 22}
+        - {x: -56, y: -22}
+        - {x: 56, y: -22}
+        - {x: 56, y: 22}
+      - - {x: -43, y: 11}
+        - {x: -46, y: 3}
+        - {x: -46, y: -7}
+        - {x: -39, y: -12}
+        - {x: -35, y: -12}
+        - {x: -29, y: -6}
+        - {x: -29, y: 5}
+        - {x: -33, y: 11}
+    - name: Act_S_2
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 1619
+        width: 112
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -56, y: 22}
+        - {x: -56, y: -22}
+        - {x: 56, y: -22}
+        - {x: 56, y: 22}
+    - name: Fight_N_Bad
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 1559
+        width: 112
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -56, y: 22}
+        - {x: -56, y: -22}
+        - {x: 56, y: -22}
+        - {x: 56, y: 22}
+      - - {x: -50, y: 16}
+        - {x: 50, y: 16}
+        - {x: 50, y: -16}
+        - {x: -50, y: -16}
+      - - {x: -11, y: 4}
+        - {x: -8, y: 6}
+        - {x: -9, y: -6}
+        - {x: -11, y: -8}
+        - {x: -11, y: -14}
+        - {x: -10, y: -16}
+        - {x: 48, y: -16}
+        - {x: 51, y: -15}
+        - {x: 51, y: 15}
+        - {x: -26, y: 15}
+        - {x: -26, y: -16}
+        - {x: -18, y: -16}
+        - {x: -16, y: -14}
+        - {x: -9, y: -2}
+        - {x: -9, y: 2}
+      - - {x: -39, y: 15}
+        - {x: -48, y: 3}
+        - {x: -48, y: -12}
+        - {x: -47, y: -15}
+        - {x: -40, y: -15}
+        - {x: -32, y: -13}
+        - {x: -31, y: -6}
+        - {x: -31, y: 15}
+    - name: Fight_S_Bad
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 1503
+        width: 112
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -56, y: 22}
+        - {x: -56, y: -22}
+        - {x: 56, y: -22}
+        - {x: 56, y: 22}
+      - - {x: -50, y: 16}
+        - {x: 50, y: 16}
+        - {x: 50, y: -16}
+        - {x: -50, y: -16}
+      - - {x: -11, y: 4}
+        - {x: -8, y: 6}
+        - {x: -9, y: -6}
+        - {x: -11, y: -8}
+        - {x: -11, y: -14}
+        - {x: -10, y: -16}
+        - {x: 48, y: -16}
+        - {x: 51, y: -15}
+        - {x: 51, y: 15}
+        - {x: -26, y: 15}
+        - {x: -26, y: -16}
+        - {x: -18, y: -16}
+        - {x: -16, y: -14}
+        - {x: -9, y: -2}
+        - {x: -9, y: 2}
+    - name: Fight_N
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 1439
+        width: 110
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -55, y: 21}
+        - {x: -55, y: -21}
+        - {x: 55, y: -21}
+        - {x: 55, y: 21}
+      - - {x: -50, y: 16}
+        - {x: 50, y: 16}
+        - {x: 50, y: -16}
+        - {x: -50, y: -16}
+      - - {x: -11, y: 4}
+        - {x: -8, y: 6}
+        - {x: -9, y: -6}
+        - {x: -11, y: -8}
+        - {x: -11, y: -14}
+        - {x: -10, y: -16}
+        - {x: 49, y: -16}
+        - {x: 51, y: -9}
+        - {x: 51, y: 15}
+        - {x: -26, y: 15}
+        - {x: -26, y: -16}
+        - {x: -18, y: -16}
+        - {x: -16, y: -14}
+        - {x: -9, y: -2}
+        - {x: -9, y: 2}
+      - - {x: -33, y: 15}
+        - {x: -37, y: 15}
+        - {x: -48, y: 3}
+        - {x: -48, y: -15}
+        - {x: -40, y: -15}
+        - {x: -32, y: -9}
+        - {x: -31, y: 1}
+        - {x: -31, y: 14}
+    - name: Fight_S
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 1380
+        width: 110
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -55, y: 21}
+        - {x: -55, y: -21}
+        - {x: 55, y: -21}
+        - {x: 55, y: 21}
+      - - {x: -50, y: 16}
+        - {x: 50, y: 16}
+        - {x: 50, y: -16}
+        - {x: -50, y: -16}
+      - - {x: -11, y: 4}
+        - {x: -8, y: 6}
+        - {x: -9, y: -6}
+        - {x: -11, y: -8}
+        - {x: -11, y: -14}
+        - {x: -10, y: -16}
+        - {x: 49, y: -16}
+        - {x: 51, y: -9}
+        - {x: 51, y: 15}
+        - {x: -26, y: 15}
+        - {x: -26, y: -16}
+        - {x: -18, y: -16}
+        - {x: -16, y: -14}
+        - {x: -9, y: -2}
+        - {x: -9, y: 2}
+    - name: Item_N
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 1322
+        width: 110
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -55, y: 21}
+        - {x: -55, y: -21}
+        - {x: 55, y: -21}
+        - {x: 55, y: 21}
+      - - {x: -50, y: 16}
+        - {x: 50, y: 16}
+        - {x: 50, y: -16}
+        - {x: -50, y: -16}
+      - - {x: -48, y: -14}
+        - {x: -46, y: -16}
+        - {x: -33, y: -16}
+        - {x: -29, y: -15}
+        - {x: -29, y: 8}
+        - {x: -30, y: 11}
+        - {x: -36, y: 13}
+        - {x: -45, y: 13}
+        - {x: -48, y: 12}
+      - - {x: -27, y: 15}
+        - {x: -27, y: -16}
+        - {x: -10, y: -16}
+        - {x: -9, y: -14}
+        - {x: -9, y: 15}
+      - - {x: 9, y: 13}
+        - {x: 7, y: 15}
+        - {x: -9, y: 15}
+        - {x: -9, y: -16}
+        - {x: 4, y: -16}
+        - {x: 6, y: -14}
+        - {x: 6, y: -13}
+        - {x: 9, y: 8}
+      - - {x: 11, y: 15}
+        - {x: 9, y: 13}
+        - {x: 9, y: -16}
+        - {x: 26, y: -16}
+        - {x: 26, y: 13}
+        - {x: 25, y: 15}
+      - - {x: 26, y: 15}
+        - {x: 26, y: -16}
+        - {x: 47, y: -16}
+        - {x: 47, y: 15}
+    - name: Item_S
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 1261
+        width: 110
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -55, y: 21}
+        - {x: -55, y: -21}
+        - {x: 55, y: -21}
+        - {x: 55, y: 21}
+      - - {x: -50, y: 16}
+        - {x: 50, y: 16}
+        - {x: 50, y: -16}
+        - {x: -50, y: -16}
+      - - {x: -27, y: 15}
+        - {x: -27, y: -16}
+        - {x: -10, y: -16}
+        - {x: -9, y: -14}
+        - {x: -9, y: 15}
+      - - {x: 9, y: 13}
+        - {x: 7, y: 15}
+        - {x: -9, y: 15}
+        - {x: -9, y: -16}
+        - {x: 4, y: -16}
+        - {x: 6, y: -14}
+        - {x: 6, y: -13}
+        - {x: 9, y: 8}
+      - - {x: 11, y: 15}
+        - {x: 9, y: 13}
+        - {x: 9, y: -16}
+        - {x: 26, y: -16}
+        - {x: 26, y: 13}
+        - {x: 25, y: 15}
+      - - {x: 26, y: 15}
+        - {x: 26, y: -16}
+        - {x: 47, y: -16}
+        - {x: 47, y: 15}
+    - name: PC Computer - Undertale - Battle Icons_10
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 1207
+        width: 110
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -55, y: 21}
+        - {x: -55, y: -21}
+        - {x: 55, y: -21}
+        - {x: 55, y: 21}
+      - - {x: -50, y: 16}
+        - {x: 50, y: 16}
+        - {x: 50, y: -16}
+        - {x: -50, y: -16}
+      - - {x: -48, y: -14}
+        - {x: -46, y: -16}
+        - {x: -33, y: -16}
+        - {x: -29, y: -15}
+        - {x: -29, y: 8}
+        - {x: -30, y: 11}
+        - {x: -36, y: 13}
+        - {x: -45, y: 13}
+        - {x: -48, y: 12}
+      - - {x: -27, y: 15}
+        - {x: -27, y: -16}
+        - {x: -10, y: -16}
+        - {x: -9, y: -14}
+        - {x: -9, y: 15}
+      - - {x: 9, y: 13}
+        - {x: 7, y: 15}
+        - {x: -9, y: 15}
+        - {x: -9, y: -16}
+        - {x: 4, y: -16}
+        - {x: 6, y: -14}
+        - {x: 6, y: -13}
+        - {x: 9, y: 8}
+      - - {x: 11, y: 15}
+        - {x: 9, y: 13}
+        - {x: 9, y: -16}
+        - {x: 26, y: -16}
+        - {x: 26, y: 13}
+        - {x: 25, y: 15}
+      - - {x: 26, y: 15}
+        - {x: 26, y: -16}
+        - {x: 47, y: -16}
+        - {x: 47, y: 15}
+    - name: PC Computer - Undertale - Battle Icons_11
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 1152
+        width: 110
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -55, y: 21}
+        - {x: -55, y: -21}
+        - {x: 55, y: -21}
+        - {x: 55, y: 21}
+      - - {x: -50, y: 16}
+        - {x: 50, y: 16}
+        - {x: 50, y: -16}
+        - {x: -50, y: -16}
+      - - {x: -27, y: 15}
+        - {x: -27, y: -16}
+        - {x: -10, y: -16}
+        - {x: -9, y: -14}
+        - {x: -9, y: 15}
+      - - {x: 9, y: 13}
+        - {x: 7, y: 15}
+        - {x: -9, y: 15}
+        - {x: -9, y: -16}
+        - {x: 4, y: -16}
+        - {x: 6, y: -14}
+        - {x: 6, y: -13}
+        - {x: 9, y: 8}
+      - - {x: 11, y: 15}
+        - {x: 9, y: 13}
+        - {x: 9, y: -16}
+        - {x: 26, y: -16}
+        - {x: 26, y: 13}
+        - {x: 25, y: 15}
+      - - {x: 26, y: 15}
+        - {x: 26, y: -16}
+        - {x: 47, y: -16}
+        - {x: 47, y: 15}
+    - name: Mercy_N
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 1094
+        width: 110
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -55, y: 21}
+        - {x: -55, y: -21}
+        - {x: 55, y: -21}
+        - {x: 55, y: 21}
+      - - {x: -50, y: 16}
+        - {x: 50, y: 16}
+        - {x: 51, y: 15}
+        - {x: 50, y: 16}
+        - {x: 46, y: 16}
+        - {x: 43, y: 13}
+        - {x: 44, y: 5}
+        - {x: 45, y: 13}
+        - {x: 42, y: 16}
+        - {x: -26, y: 16}
+        - {x: -29, y: 13}
+        - {x: -29, y: -14}
+        - {x: -26, y: -17}
+        - {x: -20, y: -20}
+        - {x: 13, y: -17}
+        - {x: 16, y: -14}
+        - {x: 15, y: -8}
+        - {x: 14, y: -14}
+        - {x: 17, y: -17}
+        - {x: 35, y: -17}
+        - {x: 39, y: -13}
+        - {x: 39, y: -2}
+        - {x: 36, y: 1}
+        - {x: 32, y: 1}
+        - {x: 29, y: -2}
+        - {x: 30, y: -7}
+        - {x: 30, y: 6}
+        - {x: 29, y: 4}
+        - {x: 32, y: 1}
+        - {x: 36, y: 1}
+        - {x: 37, y: 2}
+        - {x: 36, y: 2}
+        - {x: 39, y: -1}
+        - {x: 39, y: -14}
+        - {x: 42, y: -17}
+        - {x: 46, y: -17}
+        - {x: 49, y: -14}
+        - {x: 49, y: -1}
+        - {x: 52, y: 2}
+        - {x: 51, y: 3}
+        - {x: 50, y: -16}
+        - {x: -50, y: -16}
+      - - {x: -48, y: 11}
+        - {x: -48, y: -12}
+        - {x: -30, y: -12}
+        - {x: -30, y: 10}
+        - {x: -32, y: 11}
+    - name: Mercy_S
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 1037
+        width: 110
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -55, y: 21}
+        - {x: -55, y: -21}
+        - {x: 55, y: -21}
+        - {x: 55, y: 21}
+      - - {x: -50, y: 16}
+        - {x: 50, y: 16}
+        - {x: 51, y: 15}
+        - {x: 50, y: 16}
+        - {x: 46, y: 16}
+        - {x: 43, y: 13}
+        - {x: 44, y: 5}
+        - {x: 45, y: 13}
+        - {x: 42, y: 16}
+        - {x: -26, y: 16}
+        - {x: -29, y: 13}
+        - {x: -29, y: -14}
+        - {x: -26, y: -17}
+        - {x: -20, y: -20}
+        - {x: 13, y: -17}
+        - {x: 16, y: -14}
+        - {x: 15, y: -8}
+        - {x: 14, y: -14}
+        - {x: 17, y: -17}
+        - {x: 35, y: -17}
+        - {x: 39, y: -13}
+        - {x: 39, y: -2}
+        - {x: 36, y: 1}
+        - {x: 32, y: 1}
+        - {x: 29, y: -2}
+        - {x: 30, y: -7}
+        - {x: 30, y: 6}
+        - {x: 29, y: 4}
+        - {x: 32, y: 1}
+        - {x: 36, y: 1}
+        - {x: 37, y: 2}
+        - {x: 36, y: 2}
+        - {x: 39, y: -1}
+        - {x: 39, y: -14}
+        - {x: 42, y: -17}
+        - {x: 46, y: -17}
+        - {x: 49, y: -14}
+        - {x: 49, y: -1}
+        - {x: 52, y: 2}
+        - {x: 51, y: 3}
+        - {x: 50, y: -16}
+        - {x: -50, y: -16}
+    - name: PC Computer - Undertale - Battle Icons_14
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 980
+        width: 110
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -55, y: 21}
+        - {x: -55, y: -21}
+        - {x: 55, y: -21}
+        - {x: 55, y: 21}
+      - - {x: -50, y: 16}
+        - {x: 50, y: 16}
+        - {x: 51, y: 15}
+        - {x: 50, y: 16}
+        - {x: 46, y: 16}
+        - {x: 43, y: 13}
+        - {x: 44, y: 5}
+        - {x: 45, y: 13}
+        - {x: 42, y: 16}
+        - {x: 25, y: 16}
+        - {x: 21, y: 12}
+        - {x: 21, y: -13}
+        - {x: 25, y: -17}
+        - {x: 35, y: -17}
+        - {x: 39, y: -13}
+        - {x: 39, y: -2}
+        - {x: 36, y: 1}
+        - {x: 32, y: 1}
+        - {x: 29, y: -2}
+        - {x: 30, y: -7}
+        - {x: 30, y: 6}
+        - {x: 29, y: 4}
+        - {x: 32, y: 1}
+        - {x: 36, y: 1}
+        - {x: 37, y: 2}
+        - {x: 36, y: 2}
+        - {x: 39, y: -1}
+        - {x: 39, y: -14}
+        - {x: 42, y: -17}
+        - {x: 46, y: -17}
+        - {x: 49, y: -14}
+        - {x: 49, y: -1}
+        - {x: 52, y: 2}
+        - {x: 51, y: 3}
+        - {x: 50, y: -16}
+        - {x: -50, y: -16}
+      - - {x: -28, y: 15}
+        - {x: -28, y: -16}
+        - {x: 8, y: -16}
+        - {x: 8, y: 15}
+      - - {x: -48, y: 11}
+        - {x: -48, y: -12}
+        - {x: -30, y: -12}
+        - {x: -30, y: 10}
+        - {x: -32, y: 11}
+      - - {x: 14, y: 10}
+        - {x: 11, y: 7}
+        - {x: 11, y: 2}
+        - {x: 13, y: 0}
+        - {x: 17, y: 0}
+        - {x: 19, y: 2}
+        - {x: 19, y: 7}
+        - {x: 16, y: 10}
+    - name: PC Computer - Undertale - Battle Icons_15
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 923
+        width: 110
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -55, y: 21}
+        - {x: -55, y: -21}
+        - {x: 55, y: -21}
+        - {x: 55, y: 21}
+      - - {x: -50, y: 16}
+        - {x: 50, y: 16}
+        - {x: 51, y: 15}
+        - {x: 50, y: 16}
+        - {x: 46, y: 16}
+        - {x: 43, y: 13}
+        - {x: 44, y: 5}
+        - {x: 45, y: 13}
+        - {x: 42, y: 16}
+        - {x: -26, y: 16}
+        - {x: -29, y: 13}
+        - {x: -29, y: -14}
+        - {x: -26, y: -17}
+        - {x: -20, y: -20}
+        - {x: 13, y: -17}
+        - {x: 16, y: -14}
+        - {x: 15, y: -8}
+        - {x: 14, y: -14}
+        - {x: 17, y: -17}
+        - {x: 35, y: -17}
+        - {x: 39, y: -13}
+        - {x: 39, y: -2}
+        - {x: 36, y: 1}
+        - {x: 32, y: 1}
+        - {x: 29, y: -2}
+        - {x: 30, y: -7}
+        - {x: 30, y: 6}
+        - {x: 29, y: 4}
+        - {x: 32, y: 1}
+        - {x: 36, y: 1}
+        - {x: 37, y: 2}
+        - {x: 36, y: 2}
+        - {x: 39, y: -1}
+        - {x: 39, y: -14}
+        - {x: 42, y: -17}
+        - {x: 46, y: -17}
+        - {x: 49, y: -14}
+        - {x: 49, y: -1}
+        - {x: 52, y: 2}
+        - {x: 51, y: 3}
+        - {x: 50, y: -16}
+        - {x: -50, y: -16}
+    - name: PC Computer - Undertale - Battle Icons_16
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 863
+        width: 110
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -55, y: 21}
+        - {x: -55, y: -21}
+        - {x: 55, y: -21}
+        - {x: 55, y: 21}
+    - name: PC Computer - Undertale - Battle Icons_17
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 814
+        width: 110
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -55, y: 21}
+        - {x: -55, y: -21}
+        - {x: 55, y: -21}
+        - {x: 55, y: 21}
+    - name: PC Computer - Undertale - Battle Icons_18
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 721
+        width: 112
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -56, y: 22}
+        - {x: -56, y: -22}
+        - {x: 56, y: -22}
+        - {x: 56, y: 22}
+    - name: PC Computer - Undertale - Battle Icons_19
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 693
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Undertale - Battle Icons_20
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 706
+        width: 33
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Undertale - Battle Icons_21
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 676
+        width: 112
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -56, y: 22}
+        - {x: -56, y: -22}
+        - {x: 56, y: -22}
+        - {x: 56, y: 22}
+    - name: PC Computer - Undertale - Battle Icons_22
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 697
+        width: 31
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Undertale - Battle Icons_23
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 642
+        width: 12
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Undertale - Battle Icons_24
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 642
+        width: 7
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Undertale - Battle Icons_25
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 663
+        width: 13
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Undertale - Battle Icons_26
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 643
+        width: 13
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Undertale - Battle Icons_27
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 644
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Undertale - Battle Icons_28
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 643
+        width: 12
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Undertale - Battle Icons_29
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 629
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17, y: 15}
+        - {x: -4, y: 21}
+        - {x: -21, y: 21}
+        - {x: -21, y: -21}
+        - {x: 21, y: -21}
+        - {x: 21, y: 1}
+        - {x: 20, y: 12}
+    - name: PC Computer - Undertale - Battle Icons_30
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 629
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 21}
+        - {x: -16.5, y: -21}
+        - {x: 16.5, y: -21}
+        - {x: 16.5, y: 21}
+    - name: PC Computer - Undertale - Battle Icons_31
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 644
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Undertale - Battle Icons_32
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 646
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC Computer - Undertale - Battle Icons_33
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 539
+        width: 114
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -57, y: 21.5}
+        - {x: -57, y: -21.5}
+        - {x: 57, y: -21.5}
+        - {x: 57, y: 21.5}
+    - name: PC Computer - Undertale - Battle Icons_34
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 494
+        width: 114
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -57, y: 21.5}
+        - {x: -57, y: -21.5}
+        - {x: 57, y: -21.5}
+        - {x: 57, y: 21.5}
+    - name: PC Computer - Undertale - Battle Icons_35
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 389
+        width: 116
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -58, y: 21.5}
+        - {x: -58, y: -21.5}
+        - {x: 58, y: -21.5}
+        - {x: 58, y: 21.5}
+    - name: PC Computer - Undertale - Battle Icons_36
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 324
+        width: 117
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -58.5, y: 22}
+        - {x: -58.5, y: -22}
+        - {x: 58.5, y: -22}
+        - {x: 58.5, y: 22}
+    - name: PC Computer - Undertale - Battle Icons_37
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 266
+        width: 107
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -53.5, y: 22}
+        - {x: -53.5, y: -22}
+        - {x: 53.5, y: -22}
+        - {x: 53.5, y: 22}
+    - name: PC Computer - Undertale - Battle Icons_38
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 215
+        width: 103
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -51.5, y: 20.5}
+        - {x: -51.5, y: -20.5}
+        - {x: 51.5, y: -20.5}
+        - {x: 51.5, y: 20.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
